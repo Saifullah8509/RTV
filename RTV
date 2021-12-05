@@ -36,7 +36,9 @@ http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/206
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 
 #EXTINF:-6 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="BANGLA",INDEPENDENT TV
-http://bdiptv.net:8080/IndependentTV/tracks-v1a1/mono.m3u8?token=8b0e9dc9ab28c891a4724ebc5e0ccf4346bf29d1-4e84881568e47f37071d2ca1431f2fe2-1638543832-1638533032
+http://bdiptv.net:8080/IndependentTV/tracks-v1a1/mono.m3u8?token=ec7fb266530ca23f51fea6172e4749cac911e0b1-48cd3d20f4f4c935b1769b2f3fc49a62-1638715362-1638704562
+http://bdiptv.net:8080/flu/player/vendors.3b31bc14ac658a347ff0.js
+http://bdiptv.net:8080/IndependentTV/preview.mp4?token=ec7fb266530ca23f51fea6172e4749cac911e0b1-48cd3d20f4f4c935b1769b2f3fc49a62-1638715362-1638704562
 
 #EXTINF:-8 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="BANGLA",JAMUNA TV
 #https://last.gcdn.co/IND432/index.m3u8
@@ -71,7 +73,8 @@ https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
 
 #EXTINF:-31 tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png" group-title="BANGLA",SATV
-https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
+http://bdiptv.net:8080/SATV/tracks-v1a1/mono.m3u8?token=afa76f01a5331b36bf356374efd4c2c8b76040fe-532ae9be054fe69bb11fab68ac2a1669-1638715564-1638704764
+http://bdiptv.net:8080/SATV/preview.mp4?token=afa76f01a5331b36bf356374efd4c2c8b76040fe-532ae9be054fe69bb11fab68ac2a1669-1638715564-1638704764
 
 #EXTINF:-14 tvg-logo="https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png" group-title="BANGLA",BOISHAKHI TV
 #https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/live-orgin/boishakhitv-org.stream/chunks.m3u8
@@ -82,7 +85,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhiplus.stream/live-orgin/boishakhiplus.stream/chunks.m3u8
 
 #EXTINF:-16 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="BANGLA",Ekushey TV
-http://bdiptv.net:8080/EkusheyTv/tracks-v1a1/mono.m3u8?token=21a53cc850099f3776c2966eb943a106bd7fc53d-c8d82ea1514f374067a78a51a917a6dc-1638543722-1638532922
+http://bdiptv.net:8080/EkusheyTv/tracks-v1a1/mono.m3u8?token=6955e401bafa87a901c486308af9a00c48f45b50-65356d1a02d34edc83a66dc511ea858e-1638715626-1638704826
+http://bdiptv.net:8080/EkusheyTv/preview.mp4?token=6955e401bafa87a901c486308af9a00c48f45b50-65356d1a02d34edc83a66dc511ea858e-1638715626-1638704826
 
 #EXTINF:-17 tvg-logo="https://concordrope.com/hzbd-iptv/logo/channel_i.png" group-title="BANGLA",Channel I
 #http://30.30.30.30/live/skyfeed1011/index.m3u8
@@ -97,13 +101,13 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deeptotv.stream/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://i2.wp.com/pakistandth.com/wp-content/uploads/2019/07/Gazi-TV-Frequency.jpg" group-title="Bangla", GAZITV
-https://r7---sn-jpgjax-q5js.googlevideo.com/videoplayback?expire=1638701649&ei=8UWsYbiVGY20vwTX2aOYCA&ip=103.162.56.19&id=eNr5x-LWRPk.1&itag=243&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=Ug&mm=44%2C29&mn=sn-jpgjax-q5js%2Csn-npoeen76&ms=lva%2Crdu&mv=m&mvi=7&pl=24&gcr=bd&initcwndbps=423750&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=e-QzZ75D8Cwfo9wGzGzGzgEG&gir=yes&mt=1638679715&fvip=2&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=XxURUlyGPVaipw&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIhAMP-9BqUDxjodGvki6itdDdAZBolXWbrTJqqxx-nHYSFAiBDt3NQx3hlMRrLVtI3umY0bJjqUoNQBicNbpXkkL4T9w%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAISDr7qXsb2dIPTq359o_zXUkRakzybiHZ2kz2YUXLSAAiBBG020eGIWYcLUTCl8GunVRNyOuQqX_SXnI-cM_FidiQ%3D%3D&alr=yes&cpn=TEyvbOFPivJpdPqV&cver=1.20211201.01.00&sq=2882&rn=4&rbuf=3888
-#EXTINF: -1 tvg-logo="https://i2.wp.com/pakistandth.com/wp-content/uploads/2019/07/Gazi-TV-Frequency.jpg" group-title="All channel", GAZITV
-https://live.sonyplex.com/ott/gtv.stream/chunklist_w1905371489.m3u8
+http://bdiptv.net:8080/GaziTV/tracks-v1a1/mono.m3u8?token=4cc5ba147db6b85cc99c4e511711a6df30e8428b-f9756da10e84c33ae7a7630851908dd8-1638715505-1638704705
+http://bdiptv.net:8080/GaziTV/preview.mp4?token=4cc5ba147db6b85cc99c4e511711a6df30e8428b-f9756da10e84c33ae7a7630851908dd8-1638715505-1638704705
+http://bdiptv.net:8080/flu/player/vendors.3b31bc14ac658a347ff0.js
 
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="BANGLA",T Sports
-https://live.sonyplex.com/sonyplex/T-SPORTS.stream/index.m3u8
+https://tv.bdiptv.stream:2096/YTRwnMJHVHDBFcfjPxUmKzxaDATtzQe2RDzHPI65npX0ZwsAB94HNrQWcmM9lEj7MBmGas55/tsports/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDIxIDEyOjA2OjIwIFBNJmhhc2hfdmFsdWU9QzJCSE40MjNwT2pHODBBMHRBcWhZQT09JnZhbGlkbWludXRlcz01
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-sLjSbwUg5Bg/W6K8oDZhqkI/AAAAAAAAAPc/NLaA9mC7ewkQ1m4NUrvDOfQiZ0NbSzRRgCLcBGAs/s1600/maasranga-tv-live.png" group-title="Bangla",Maasranga
 https://last.gcdn.co/IND426/tracks-v1a1/mono.m3u8
@@ -124,7 +128,8 @@ http://10.16.100.245/hindi/n@g0riktv_1st0p.m3u8
 http://30.30.30.30/live/skyfeed1019/index.m3u8
 
 #EXTINF:-32 tvg-logo="https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png" group-title="BANGLA",MY TV HD
-http://bdiptv.net:8080/MyTV/tracks-v1a1/mono.m3u8?token=edf3dac2a2ab3068d4f29638d649fa2b5eec1cdb-7d536f463463e1d195235da60bbb7639-1638543790-1638532990
+http://bdiptv.net:8080/MyTV/tracks-v1a1/mono.m3u8?token=7ff6b398157535ef0094f7eb787cdb50735888af-f440e922ea8493a31bf917971f984b7d-1638715427-1638704627
+http://bdiptv.net:8080/MyTV/preview.mp4?token=7ff6b398157535ef0094f7eb787cdb50735888af-f440e922ea8493a31bf917971f984b7d-1638715427-1638704627
 
 #EXTINF:-33 tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="BANGLA",Bangla TV
 #http://30.30.30.30/live/skyfeed1015/index.m3u8
@@ -162,7 +167,8 @@ https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdE
 
 #EXTINF:-1 tvg-id="" tvg-name="Amar Bangla" tvg-logo="" group-title="BANGLA",Amar Bangla
 http://stream1.livebox.co.in/kbcreationhls/live.m3u8
-
+#EXTINF:-1 tvg-id=""data:image/jpeg;base64,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" tvg-logo="" group-title="BANGLA",Tara TV
+https://r6---sn-jpgjax-q5jz.googlevideo.com/videoplayback?expire=1638729046&ei=87CsYanjB8uPwgOXvKfIBQ&ip=103.162.56.19&id=73LdlbZ8gUs.1&itag=244&aitags=242%2C243%2C244%2C247%2C278&source=yt_live_broadcast&requiressl=yes&mh=q9&mm=44%2C29&mn=sn-jpgjax-q5jz%2Csn-npoe7nlz&ms=lva%2Crdu&mv=m&mvi=6&pl=24&initcwndbps=243750&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=UUmD5TvnBL-Tk_RnP1vHNNEG&gir=yes&mt=1638707077&fvip=2&keepalive=yes&fexp=24001373%2C24007246&c=WEB&n=MeCUa_gckkvRnA&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRgIhAMD4xVGu3m4X5XvJF_w1KiUTSHCyIbb6xavDR2JjvEfZAiEAi4U7f79x3tQ6hEKPbZ8EpQVF6MPRuPigXiqbDkNkZLA%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgRtV_XRqi6xUF-ed3ZqPOZXx1n0qhz39ug67m74NVM28CIA-L14l2D239WK3pcwmhjUJw3EquFzUKOp8kzcKRvY1H&alr=yes&cpn=_vgC-0931Ash6pSl&cver=2.20211129.09.00&sq=176235&rn=41&rbuf=17335
 #EXTINF:-1 tvg-id="" tvg-name="Amar Bangla" tvg-logo="" group-title="BANGLA",Tollywood
 http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
 
@@ -308,7 +314,7 @@ http://14.199.164.20:4001/play/a0j5/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Bangla", Jalsha Movies HD
 http://suncable.serveftp.com/jalshamuvies-enc/video.m3u8
 
-#EXTINF:-1 group-title="Indian-Bangla",Zee 24 Ganta
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Zee_24_ghanta.png/revision/latest/scale-to-width-down/300?cb=20210509174741"group-title="Indian-Bangla",Zee 24 Ganta
 https://d3dyw3d1wswml0.cloudfront.net/out/v1/c549619d46ce42b28649a25c12f3ee4b/index_12.m3u8
 #EXTINF:-1 group-title="Indian-Bangla",Kalkata tv
 #EXTINF:-1 tvg-logo="https://static.abplive.com/frontend/images/nw-bengali-og.png?impolicy=abp_cdn&imwidth=600" group-title="*News",ABP Ananda
@@ -316,7 +322,7 @@ https://abp-i.akamaihd.net/hls/live/765530/abpananda/master_1564.m3u8
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Calcutta_News.png" group-title="News", Calcutta News
 https://dqnik6j3pouun.cloudfront.net/app-18753-1288/ngrp:6FOuP1pi_all/chunklist_w1687163845_b2624512.m3u8
 
-#EXTINF:-1 group-title="Indian-Bangla",Republic Bangla
+#EXTINF:-1 tvh-logo="https://yt3.ggpht.com/ytc/AKedOLTfaBAtNBkiiK7lDJi-8WWfFzNIg_mqXZQOUREq=s900-c-k-c0x00ffffff-no-rj"group-title="Indian-Bangla",Republic Bangla
 https://rbangla.pc.cdn.bitgravity.com/live/rbanglatv/chunklist_0.m3u8
 https://rbangla.pc.cdn.bitgravity.com/live/rbanglatv/chunklist_4.m3u8
 
@@ -721,28 +727,4 @@ http://93.152.174.144:4000/play/btsport2/index.m3u8
 
 
 
-#EXTINF:-164 tvg-logo="" group-title="MOVIE",Movie channel-1
-http://storage.iplex.live/Movies/Bangla/Bangladeshi/2021/Dark.Room.2021.720P.x264.AAC.iPlex.mp4
-#EXTINF:-164 tvg-logo="" group-title="MOVIE",Movie channel-2
-http://storage.iplex.live/TV%20Series/Bangla/The%20Dark%20Side%20Of%20Dhaka%202021%20Bengali%201080P%20WEBRIP%20H265%20HEVC%20AAC%202.0%20-%20%5BHasan%5D.mkv
-#EXTINF:-164 tvg-logo="" group-title="MOVIE",Movie channel-3
-http://storage.iplex.live/Movies/Bangla/Bangladeshi/2021/Youtumor.2021.1080p.x264.AAC.VTL.mp4
-
-
-#EXTINF:-164 tvg-logo="" group-title="MOVIE",ISKABONER RANI
-https://www.googleapis.com/drive/v3/files/1qESl4oS1jh533FCvLTZrLJstSVRmLJsz?alt=media&key=AIzaSyD0SxLSv34ivId5qpj-sIbbJY9xSmp16Ac
-#EXTINF:-164 tvg-logo="" group-title="MOVIE",GODZILLA 4k
-http://10.16.100.202/ftps10/iccftps10sasd3/Movies/4K/English/Godzilla%20King%20Of%20The%20Monsters%20(2019)%202160p%20BluRay.mkv
-#EXTINF:-164 tvg-logo="" group-title="MOVIE",SHERSHAH 4K
-http://10.16.100.202/ftps10/iccftps10sasd8/Movies/4K/Hindi/Shershaah%20(2021)%202160p%20WEBDL%20DDP%205.1%20HEVC.mkv
-#EXTINF:-164 tvg-logo="" group-title="MOVIE",KING KONG 4K
-http://10.16.100.206/ftps3/ftps3d5/Movies/4K/English/King%20Kong%20(2005)%202160p%20BluRay.mkv
-#EXTINF:-164 tvg-logo="" group-title="MOVIE", BCS BANGLA 1ST&2ND
-http://10.16.100.246/ftps4d1/TV%20Show/Bangla%20Drama/BCS%20Bangla%20Prothom%20O%20Ditio%20Potro%20(Drama).mkv
-#EXTINF:-164 tvg-logo="" group-title="MOVIE",NATOK
-http://10.16.100.241/ftps3d7/TV%20Shows/Bangla%20Drama/Mui%20Barishailla%20Mui%20Bangladeshi%20(2019)%201080p%20HDRip.mp4
-#EXTINF:-164 tvg-logo="" group-title="MOVIE", BANGI 1
-http://10.16.100.241/ftps3d4/TV%20Shows/Bangla%20Drama/Bangi%20TV%20Bangla%20Natok/Bangi%20TV%20E01.mp4
-#EXTINF:-164 tvg-logo="" group-title="MOVIE", BANGI 2
-http://10.16.100.241/ftps3d4/TV%20Shows/Bangla%20Drama/Bangi%20TV%20Bangla%20Natok/Bangi%20TV%20E02.mp4
 
