@@ -81,7 +81,8 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/live-orgin/boishakhitv-org.stream/chunks.m3u8
 #http://30.30.30.30/live/skyfeed1021/index.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/162-1620250_asian-tv-bd-logo-hd-png-download.png" group-title="Bangla", Asian TV
+http://103.159.4.38:5868/BD-BANGLA-22/index.m3u8
 #EXTINF:-15 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/12/boishakhitvplus.jpeg" group-title="BANGLA",BOISHAKHI Plus
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhiplus.stream/live-orgin/boishakhiplus.stream/chunks.m3u8
 
@@ -94,11 +95,8 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 
 #EXTINF:-18 tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="BANGLA",Deepto TV
-#http://tv.alphamediazone.com:8089/thunderbd/8/index.m3u8
-#https://last.gcdn.co/IND450/index.m3u8
-#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/125
-#https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deeptotv.stream/live-orgin/deeptotv.stream/chunks.m3u8
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deeptotv.stream/chunks.m3u8
+http://str24.l9574.com/609.stream/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png"group-title="Music" , Gaan Bangla
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i2.wp.com/pakistandth.com/wp-content/uploads/2019/07/Gazi-TV-Frequency.jpg" group-title="Bangla", GAZITV
@@ -131,9 +129,7 @@ http://10.16.100.207:8082/sports/Channel9_1st0p.m3u8
 http://30.30.30.30/live/skyfeed1019/index.m3u8
 
 #EXTINF:-32 tvg-logo="https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png" group-title="BANGLA",MY TV HD
-#https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
-#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/47
-http://30.30.30.30/live/skyfeed1017/index.m3u8
+http://208.86.19.21/624.stream/index.m3u8
 
 #EXTINF:-33 tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="BANGLA",Bangla TV
 #http://30.30.30.30/live/skyfeed1015/index.m3u8
@@ -308,6 +304,14 @@ http://ukipptv.ddns.net/903.stream/index.m3u8
 
 #EXTINF:-55 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Indian-Bangla",Colors Bangla HD
 http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/colors-bangla/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Kolkata", Colors Bangla Ch-1
+https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Kolkata", Colors Bangla Ch-2
+http://208.86.19.21:80/904.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Kolkata", Colors Bangla Ch-3
+http://jupiter.bdcabletv.com/ColorsBangla-ENC/video.m3u8
 #EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160221005243/en/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" , Love Nature
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
 
@@ -317,8 +321,7 @@ http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6641/index.m3u8
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aakaash_bangla.png" group-title="Indian-Bangla", Aakash Aath
-https://ott.bingebd.com/live/ngrp:dillagi_all/playlist.m3u8
-https://m-c29-j2apps.s.llnwi.net/hls/0121.AakashAath.in.m3u8
+http://208.86.19.21:80/902.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Bangla", Zee Bangla Cinema
 https://z5ams.akamaized.net/zbanglacnm/tracks-v4a1/hdntl=exp=1638245052~acl=%2f*~data=hdntl~hmac=b6176619ee69a3fce74e796ac10585e7ef7bfee912fafb17b974ffb162e6f27d/mono.m3u8
@@ -338,15 +341,14 @@ https://d3dyw3d1wswml0.cloudfront.net/out/v1/c549619d46ce42b28649a25c12f3ee4b/in
 #EXTINF:-1 tvg-logo="https://static.abplive.com/frontend/images/nw-bengali-og.png?impolicy=abp_cdn&imwidth=600" group-title="*News",ABP Ananda
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/master_1564.m3u8
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Calcutta_News.png" group-title="News", Calcutta News
-https://dqnik6j3pouun.cloudfront.net/app-18753-1288/ngrp:6FOuP1pi_all/chunklist_w1687163845_b2624512.m3u8
+https://dqnik6j3pouun.cloudfront.net/app-18753-1288/ngrp:6FOuP1pi_all/chunklist_w1230303989_b2657280.m3u8
 
 #EXTINF:-1 tvh-logo="https://yt3.ggpht.com/ytc/AKedOLTfaBAtNBkiiK7lDJi-8WWfFzNIg_mqXZQOUREq=s900-c-k-c0x00ffffff-no-rj"group-title="Indian-Bangla",Republic Bangla
 https://rbangla.pc.cdn.bitgravity.com/live/rbanglatv/chunklist_0.m3u8
 https://rbangla.pc.cdn.bitgravity.com/live/rbanglatv/chunklist_4.m3u8
 
 #EXTINF:-1  group-title="News",Kolkata Live
-https://m-c14-j2apps.s.llnwi.net/hls/5956.KolkataLive.in.m3u8
-
+https://vidcdn.vidgyor.com/rplus-origin/rplusasianetlive/playlist.m3u8
 
 #EXTINF:-57 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/News18_Bangla_logo.jpeg" group-title="Indian-Bangla",News-18 Bangla
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
