@@ -403,6 +403,8 @@ http://rv.flysat.live:80/ams/ams123/83649
 
 #EXTINF:-87 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/M_Tunes_HD_logo.png" group-title="MUSIC",M-Tunes
 http://14.199.164.20:4001/play/a0p2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HH5n3Ua.jpg" group-title="MUSIC", Music Mastii
+http://14.199.164.20:4001/play/a0my/index.m3u8
 
 #EXTINF:-89 group-title="MUSIC"tvg-logo="http://logo.ddnb.tn/logochanel/1732.png",B4U Music
 #http://14.199.164.20:4001/play/a0wk/index.m3u8
