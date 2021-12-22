@@ -347,7 +347,7 @@ https://rbangla.pc.cdn.bitgravity.com/live/rbanglatv/chunklist_4.m3u8
 https://vidcdn.vidgyor.com/rplus-origin/rplusasianetlive/playlist.m3u8
 
 #EXTINF:-57 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/News18_Bangla_logo.jpeg" group-title="Indian-Bangla",News-18 Bangla
-https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
+https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_5_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imageb7be3164e639addc.png" group-title="Kolkata", Ruposhi Bangla
 https://yuppcatchup.akamaized.net/preview/rupashibangala/1800.m3u8?hdnts=st=1612630459~exp=1612631059~acl=!*/20/preview/rupashibangala/*!/payload/yuppTVCom_61_-1_d8ba0603680e4389_BD_103
 
