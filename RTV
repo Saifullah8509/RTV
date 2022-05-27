@@ -6,10 +6,11 @@
 http://10.16.100.203:8082/bangla/BTv_NatiOnal_1stop.m3u8
 
 #EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor TV
-http://10.16.100.208:8082/hindi/ek@ttOrTV_1$tOp.m3u8
+http://bciptv.net:8082/Ekattor-tv/tracks-v1a1/mono.m3u8?token=810d88fbe78601d6f956b2208ff1524bf087b3d4-2d23f392e305cb11e839bfa1ca931325-1653633615-1653622815
+http://bciptv.net:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-5 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA",SOMOY TV
-http://10.16.100.203:8082/bangla/somoy_riptv_21.m3u8
+https://somoy.appv.jagobd.com:444/somoy/somoyt000011226615544544.stream/live-orgin/somoyt000011226615544544.stream/chunks.m3u8?nimblesessionid=942229130
 
 #EXTINF:-7 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png" group-title="BANGLA",NEWS 24 HD
 #http://30.30.30.30/live/skyfeed1016/index.m3u8
@@ -28,7 +29,8 @@ http://10.16.100.245/hindi/channeL24_1st0p.m3u8
 http://208.86.19.21/601.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-8 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="BANGLA",JAMUNA TV
-http://10.16.100.203:8082/bangla/jamuna_riptv21.m3u8
+http://bciptv.net:8082/jamuna-tv/tracks-v1a1/mono.m3u8?token=d65d7b5c63dda9edd5c2d62eec976c8856e2dc7e-0cf455f92573b265e8c5b18e5184fd0a-1653633678-1653622878
+http://bciptv.net:8082/jamuna-tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-11 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png" group-title="BANGLA",ATN NEWS [BD]
 http://10.16.100.245/hindi/atNnews_1st0p.m3u8
@@ -283,7 +285,7 @@ http://bciptv.net:8082/Dw/tracks-v1a1/mono.m3u8?token=c0b4a03c2e656746edb8354701
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian-Bangla",Star Jalsha
-http://10.16.100.204:8082/hls/st@rj@lsha.m3u8
+http://bciptv.net:8082/jalsha/tracks-v1a1/mono.m3u8
 
 #EXTINF:-50 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Indian-Bangla",Jalsha Movies HD
 #http://tv.alphamediazone.com:8089/thunderbd/31/index.m3u8
@@ -302,10 +304,9 @@ http://bciptv.net:8082/colore-bangla-cinema/tracks-v1a1/mono.m3u8?token=3fa95773
 #EXTINF:-51 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Sun_Bangla_Logo.png/revision/latest?cb=20210319122931" group-title="Indian-Bangla",Sun Bangla
 http://bciptv.net:8082/sunbangla/tracks-v1a1/mono.m3u8?token=049e3833cd351647d351d27ba4b3d35063f9dbcb-0bf2f47bf28d3cab7298bba14ae460f9-1652080177-1652069377
 #EXTINF:-53 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla",Zee Bangla
-http://10.16.100.204:8082/hls/zeeb@ngla.m3u8
+http://bciptv.net:8082/zee-bangla/tracks-v1a1/mono.m3u8?token=a4864bded36baab87db437f228c89cc29b05e3d1-38286e0db248e550f4a0ce0916e1719a-1653633481-1653622681
 #EXTINF:-53 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla",Zee Bangla HD
-http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/zee-bangla/chunks.m3u8
-
+http://bciptv.net:8082/zee-bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-53 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla",Zee Bangla HD
 http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/zee-bangla/chunks.m3u8
 
