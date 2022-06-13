@@ -132,14 +132,15 @@ http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
 http://bdiptv.net:8082/Music-Masti/tracks-3,2/index.m3u8?token=95750639350873b1fa3b994c968c034346f71218-63f11e8f1a9d5275bec35b4021f903ff-1653726014-1653715214 
 
 #EXTINF:-87 tvg-logo="https://i.imgur.com/HH5n3Ua.jpg" group-title="MUSIC",Dil Sangeet
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+http://103.55.144.46/hls/zoom.m3u8
 #EXTINF:0 tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_1997/Pop_Patakha_Logo176X96.png" group-title="MUSIC",Hangama Music
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema HD
-http://103.55.144.46/hls/zeecinemahd.m3u8
+https://live.bdtv.xyz:2096/token/ZeeCinema/chunks.m3u8?nimblesessionid=1443015&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDIyIDM6MDE6NDQgQU0maGFzaF92YWx1ZT1xUUtaMjNDRkdBNVlzejVnc24wcHpnPT0mdmFsaWRtaW51dGVzPTU=
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/zee-cinema/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Sony Max HD 
 https://fs.nowhdtime.com.bd/SonyMaxHD/tracks-v1a1/mono.m3u8?token=fc336840a7434864b878f497aad48d7a2bd0151c-db700fe67a79c65c94aa91ad53e16cfb-1655021831-1655011031
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony Entertainment HD
@@ -256,8 +257,8 @@ http://103.55.144.46/hls/t-sports.m3u8
 http://103.55.144.46/hls/ten.m3u8
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD
-http://10.16.100.245/hindi/ten2HD_templocal.m3u8
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/willow-cric/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",T Sports HD
 http://103.55.144.46/hls/t-sports.m3u8
-
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/Makkahlive/chunks.m3u8
 
