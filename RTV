@@ -124,12 +124,12 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_
 
 
 #EXTINF:-87 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/M_Tunes_HD_logo.png" group-title="MUSIC",M-Tunes
-http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
+https://list.iptvcat.com/my_list/s/dc9739c45fb3150ac36c43b10edf075a.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HH5n3Ua.jpg" group-title="MUSIC", Music Mastii
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSFDmgJeM34DwUJKQC4cLTxR3YJyml-lx3xOA2HOmpxpkaDQ3pN&usqp=CAU" , Dil Se
-http://bdiptv.net:8082/Music-Masti/tracks-3,2/index.m3u8?token=95750639350873b1fa3b994c968c034346f71218-63f11e8f1a9d5275bec35b4021f903ff-1653726014-1653715214 
+https://list.iptvcat.com/my_list/s/c55257cd9284565eabab8da5ad740e58.m3u8
 
 #EXTINF:-87 tvg-logo="https://i.imgur.com/HH5n3Ua.jpg" group-title="MUSIC",Dil Sangeet
 http://103.55.144.46/hls/zoom.m3u8
@@ -139,7 +139,7 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=20
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema HD
-https://live.bdtv.xyz:2096/token/ZeeCinema/chunks.m3u8?nimblesessionid=1443015&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDIyIDM6MDE6NDQgQU0maGFzaF92YWx1ZT1xUUtaMjNDRkdBNVlzejVnc24wcHpnPT0mdmFsaWRtaW51dGVzPTU=
+http://103.55.144.46/hls/zeecinemahd.m3u8
 http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/zee-cinema/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Sony Max HD 
 https://fs.nowhdtime.com.bd/SonyMaxHD/tracks-v1a1/mono.m3u8?token=fc336840a7434864b878f497aad48d7a2bd0151c-db700fe67a79c65c94aa91ad53e16cfb-1655021831-1655011031
@@ -148,7 +148,7 @@ http://103.55.144.46/hls/sonyen.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/bflix-movies-logo-300x300.jpg" group-title="Hindi",Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 
-#EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",TATA Sky Movie
+#EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",UTV Action
 http://103.55.144.46/hls/utvaction.m3u8
 #EXTINF:0 tvg-id="SonyPIX.in" group-title="English Movie",Sony Pix HD
 http://103.55.144.46/hls/sonypixhd.m3u8
@@ -162,9 +162,6 @@ http://103.55.144.46/hls/mnx-hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BNaXQWX.png" group-title="English",Movies Now HD
 http://103.55.144.46/hls/movies-now.m3u8
-
-#EXTINF:0 tvg-id="SonyPIX.in" group-title="English Movie",Fox
-http://103.55.144.46/hls/star-worldhd.m3u8
 
 #EXTINF:0 tvg-id="SonyPIX.in" group-title="English Movie",Fox Movie
 http://103.55.144.46/hls/mn+.m3u8
@@ -180,7 +177,7 @@ http://ip2121.com:8081/web1/hbo/playlist.m3u8
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="STAR WORLD HD (IN)" tvg-logo=" " group-title="English Movie",STAR WORLD HD (IN)
-http://221.120.204.4/star-world-LOCKLE/index.m3u8
+http://103.55.144.46/hls/star-worldhd.m3u8
 
 #EXTINF:-1 tvg-id="Frisbee.it" tvg-name="Frisbee" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="English",BBC Earth
 http://103.55.144.46/hls/bbcearth.m3u8
@@ -198,7 +195,7 @@ http://103.55.144.46/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian-Bangla", Star Jalsha HD
 http://103.55.144.46/hls/starjalsha.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Indian-Bangla", Enter 10 Bangla
-http://14.199.164.20:4001/play/a0j5/index.m3u8
+https://list.iptvcat.com/my_list/s/9aa0800755ffeb366267fc3a89b4b4c3.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/78/6f/3e/786f3edd63543283a9a95bd6d04950e9.jpg" group-title="Indian-Bangla", Colors Bangla HD
 http://103.55.144.46/hls/colorsbangla.m3u8
 #EXTINF: -1 tvg-logo="https://www.adgully.com/img/800/202101/amit-aggrawal_2.png.jpg" group-title="News", Zee 24 Ghanta
