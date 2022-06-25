@@ -214,7 +214,7 @@ https://vidcdn.vidgyor.com/tv9bangla-origin/live/tv9bangla-origin/live_720p/chun
 https://rbangla.pc.cdn.bitgravity.com/live/rbanglatv/chunklist_0.m3u8
 https://rbangla.pc.cdn.bitgravity.com/live/rbanglatv/chunklist_4.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.abplive.com/frontend/images/nw-bengali-og.png?impolicy=abp_cdn&imwidth=600" group-title="* All 21042021",ABP Ananda
+#EXTINF:-1 tvg-logo="https://static.abplive.com/frontend/images/nw-bengali-og.png?impolicy=abp_cdn&imwidth=600" group-title="Indian-Bangla",ABP Ananda
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
 #EXTINF:-57 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/News18_Bangla_logo.jpeg" group-title="Indian-Bangla",News-18 Bangla
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
