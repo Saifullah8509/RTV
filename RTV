@@ -43,8 +43,8 @@ http://10.16.100.208:8082/hindi/mohon@_1sTop.m3u8
 
 #EXTINF:-29 tvg-logo="https://i.imgur.com/vPl5dF8.png" group-title="BANGLA",NTV
 http://10.16.100.245/hindi/ntv_1sT0p.m3u8
-
-
+#EXTINF:-30 tvg-logo="https://static.wikia.nocookie.net/doraemon/images/a/a7/Asian_TV.jpg/revision/latest?cb=20150523082702&path-prefix=en" group-title="BANGLA",Asian TV
+http://10.16.100.203:8082/bangla/tv_AsiaN.m3u8
 #EXTINF:-30 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="BANGLA",Masranga
 http://10.16.100.208:8082/hindi/m@sranga_1stOP.m3u8
 #EXTINF:-30 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="BANGLA",RTV
@@ -113,14 +113,10 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sa
 http://14.199.164.20:4001/play/a0rh/index.m3u8
 
 #EXTINF:-86 tvg-logo="https://i.imgur.com/DJhTTmR.png" group-title="MUSIC",Music India
-#http://103.159.4.38:5868/MUSIC-3/tracks-v1a1/mono.m3u8
-#https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
-#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/86
-#http://rv.flysat.live:80/ams/ams123/83647
-http://14.199.164.20:4001/play/a0mt/index.m3u8
+https://list.iptvcat.com/my_list/s/bc9b1a8d8b4fffeb3e44c3cee995644c.m3u8
 
 #EXTINF:-83 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="MUSIC",ICC_9XM
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
+https://list.iptvcat.com/my_list/s/758d41d0a30b32f13fdc70715470054c.m3u8
 
 
 #EXTINF:-87 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/M_Tunes_HD_logo.png" group-title="MUSIC",M-Tunes
@@ -129,14 +125,14 @@ https://list.iptvcat.com/my_list/s/dc9739c45fb3150ac36c43b10edf075a.m3u8
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSFDmgJeM34DwUJKQC4cLTxR3YJyml-lx3xOA2HOmpxpkaDQ3pN&usqp=CAU" , Dil Se
-https://list.iptvcat.com/my_list/s/c55257cd9284565eabab8da5ad740e58.m3u8
+https://list.iptvcat.com/my_list/s/f0e9e3bc691cd9ba3ed27bd4c75a0d42.m3u8
 
 #EXTINF:-87 tvg-logo="https://i.imgur.com/HH5n3Ua.jpg" group-title="MUSIC",Dil Sangeet
-http://103.55.144.46/hls/zoom.m3u8
+https://list.iptvcat.com/my_list/s/39379a9f9811d38f3959d1d1905080f7.m3u8
 #EXTINF:0 tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_1997/Pop_Patakha_Logo176X96.png" group-title="MUSIC",Hangama Music
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
-
-
+#EXTINF:-87 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/MTV_Beats_HD-0.jpg/revision/latest/scale-to-width-down/250?cb=20180711070218" group-title="MUSIC",MTV Beats
+https://list.iptvcat.com/my_list/s/6171ab3b14d128a4b845a73adf9e9b13.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema HD
 http://103.55.144.46/hls/zeecinemahd.m3u8
@@ -189,11 +185,13 @@ https://bamus-eng-roku.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTEMY__A1rdg6TAMyLp0-TcqkzGM6Y4-KjjVNzsOA=s900-c-k-c0x00ffffff-no-rj" group-title="Indian-Bangla", Zee Bangla HD
-http://10.16.100.204:8082/hls/zeeb@ngla.m3u8
+https://fs.nowhdtime.com.bd/ZeeBangla/tracks-v1a1/mono.m3u8?token=9a7e1f7977eedd69fa2397531d21c84d440bfb22-93dec8e9c87d30966cddd279cb29f4fe-1656917044-1656906244
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTEMY__A1rdg6TAMyLp0-TcqkzGM6Y4-KjjVNzsOA=s900-c-k-c0x00ffffff-no-rj" group-title="Indian-Bangla", Zee Bangla HD
 http://103.55.144.46/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian-Bangla", Star Jalsha HD
 http://103.55.144.46/hls/starjalsha.m3u8
+#EXTINF:-1 tvg-logo="https://uploads.tapatalk-cdn.com/20160411/4442053e7d5e38bf177a7522f1d428e1.jpg" group-title="Indian-Bangla", Star Jalsha Movie HD
+http://103.55.144.46/hls/jalshamovies.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Indian-Bangla", Enter 10 Bangla
 https://list.iptvcat.com/my_list/s/9aa0800755ffeb366267fc3a89b4b4c3.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/78/6f/3e/786f3edd63543283a9a95bd6d04950e9.jpg" group-title="Indian-Bangla", Colors Bangla HD
@@ -217,8 +215,7 @@ https://rbangla.pc.cdn.bitgravity.com/live/rbanglatv/chunklist_4.m3u8
 #EXTINF:-1 tvg-logo="https://static.abplive.com/frontend/images/nw-bengali-og.png?impolicy=abp_cdn&imwidth=600" group-title="Indian-Bangla",ABP Ananda
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
 #EXTINF:-57 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/News18_Bangla_logo.jpeg" group-title="Indian-Bangla",News-18 Bangla
-https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
-
+https://news18bangla-1h.akamaihd.net/i/n18bangla_1@2289/index_5_av-b.m3u8
 
 
 
