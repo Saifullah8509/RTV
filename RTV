@@ -222,13 +222,13 @@ https://vidcdn.vidgyor.com/tv9bangla-origin/live/tv9bangla-origin/live_720p/chun
 
 #EXTINF:-1 tvh-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPfK4eBSH8VYHllL0NkE8WUrA0AQfrP5bwd68cfvnTb2D05H_8I-Gx0Hal8-ZrtEQJBnU&usqp=CAU"group-title="News",Republic Bangla
 https://rbangla.pc.cdn.bitgravity.com/v1/manifest/3b48e218addf61132f4eb1c584495b7308b8fafa/republictv-rbangla-mobile-prod/5c873719-01d1-4b72-b642-6143250f6f5e/4.m3u8
-https://rbangla.pc.cdn.bitgravity.com/v1/manifest/3b48e218addf61132f4eb1c584495b7308b8fafa/republictv-rbangla-mobile-prod/2cbaa15a-7240-41dd-a573-46557680a09e/4.m3u8
+https://rbangla.pc.cdn.bitgravity.com/v1/manifest/3b48e218addf61132f4eb1c584495b7308b8fafa/republictv-rbangla-mobile-prod/1dcc04f1-7798-4d8b-9366-5808d0150904/4.m3u8
 #EXTINF:-1 tvg-logo="https://static.abplive.com/frontend/images/nw-bengali-og.png?impolicy=abp_cdn&imwidth=600" group-title="News",ABP Ananda
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
 #EXTINF:-57 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/News18_Bangla_logo.jpeg" group-title="News",Kolkata News
 https://onair.kolkatatv.org/hls/goktvlive.m3u8
 #EXTINF:-57 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/News18_Bangla_logo.jpeg" group-title="News",News-18 Bangla
-https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?sd=10&rebase=on
+https://nw18live.cdn.jio.com/bpk-tv/News18_Bangla_NW18_MOB/output01/index.m3u8?__hdnea__=st=1662264447~exp=1662350847~acl=/*~hmac=535b74cda5d6208695ca8cfe4acf252329f997665e002f49cc989b87c4c0d3d4
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
@@ -236,10 +236,10 @@ http://103.55.144.46/hls/t-sports.m3u8
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV [1]
 http://10.16.100.245/hindi/Gazitv_1Stop.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv [3]
-http://103.55.144.46/hls/Gazi-TV.m3u8
+http://10.16.100.211/sports/gazitv@.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports Bangla
-http://10.16.100.207:8082/sports/starsp0rt$1oneHD.m3u8
+http://test-otv2.ftpbd.net/streams/110/index.m3u8
 
 #EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
 http://10.16.100.207:8082/sports/ssportsselect2hd_1$top.m3u8
@@ -248,7 +248,7 @@ http://10.16.100.207:8082/sports/ssportsselect2hd_1$top.m3u8
 #EXTINF:-1,#EXTINF:-145 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="SPORTS",PTV Sports
 http://103.55.144.46/hls/ptv.m3u8
 #EXTINF:-147 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS",Geo Super TV
-http://103.55.144.46/hls/sonyten3.m3u8
+http://10.16.100.207:8088/sports/sportselect2_hd.m3u8
 
 #EXTINF:-145 tvg-logo="" group-title="SPORTS",Ten sports
 http://bdiptv.net:8082/SKY-SPORTS-FOOTBALL/index.m3u8?token=b793c870ec912354334c5e9b4dd8e716b7ed02dc-db8a4ee29271c4ba3dd046753eef118d-1654065303-1654054503&remote=103.118.152.32
