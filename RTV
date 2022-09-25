@@ -13,7 +13,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://10.16.100.208:8082/hindi/ek@ttOrTV_1$tOp.m3u8
 
 #EXTINF:-5 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA",SOMOY TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/playlist.m3u8 
 #EXTINF:-7 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png" group-title="BANGLA",NEWS 24 HD
 http://10.16.100.208:8082/hindi/new$_24fouR_1st0p.m3u8
 
@@ -46,7 +46,7 @@ http://bdiptv.net:8082/NTV/index.m3u8
 #EXTINF:-30 tvg-logo="https://static.wikia.nocookie.net/doraemon/images/a/a7/Asian_TV.jpg/revision/latest?cb=20150523082702&path-prefix=en" group-title="BANGLA",Asian TV
 http://10.16.100.203:8082/bangla/@sianhd_1stop.m3u8
 #EXTINF:-30 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="BANGLA",Masranga
-http://10.16.100.208:8082/hindi/m@sranga_1stOP.m3u8
+http://10.16.100.245/hindi/masrangaaa.m3u8
 #EXTINF:-30 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="BANGLA",RTV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8?nimblesessionid=1255446387
 
@@ -129,7 +129,7 @@ https://bdcast-live2.b-cdn.net/jago/1/live-orgin/rtvmusic.stream/chunks.m3u8
 https://epiconvh.s.llnwi.net/showbox/master_864.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSFDmgJeM34DwUJKQC4cLTxR3YJyml-lx3xOA2HOmpxpkaDQ3pN&usqp=CAU" , Dil Se
-https://live.hungama.com/linear/dil-se/playlist_playlist_240p.m3u8
+https://epiconvh.s.llnwi.net/showbox/master_1024.m3u8
 
 #EXTINF:-87 tvg-logo="https://i.imgur.com/HH5n3Ua.jpg" group-title="MUSIC",Dil Sangeet
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/musicindia-audio_208482_und=208000-video=877600.m3u8
@@ -221,14 +221,14 @@ https://rr1---sn-jpgjax-q5jy.googlevideo.com/videoplayback?expire=1652263430&ei=
 https://vidcdn.vidgyor.com/tv9bangla-origin/live/tv9bangla-origin/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvh-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPfK4eBSH8VYHllL0NkE8WUrA0AQfrP5bwd68cfvnTb2D05H_8I-Gx0Hal8-ZrtEQJBnU&usqp=CAU"group-title="News",Republic Bangla
-https://rbangla.pc.cdn.bitgravity.com/v1/manifest/3b48e218addf61132f4eb1c584495b7308b8fafa/republictv-rbangla-mobile-prod/aba6228b-525f-4a3a-a6ae-971bbd950211/4.m3u8
-https://rbangla.pc.cdn.bitgravity.com/v1/manifest/3b48e218addf61132f4eb1c584495b7308b8fafa/republictv-rbangla-mobile-prod/195c2bd9-8c4a-44e2-b443-30f6bca9b92d/4.m3u8
+https://rbangla.pc.cdn.bitgravity.com/v1/manifest/3b48e218addf61132f4eb1c584495b7308b8fafa/republictv-rbangla-mobile-prod/bdf2104d-062e-4517-a25c-34c677ad533a/4.m3u8
+https://rbangla.pc.cdn.bitgravity.com/v1/manifest/3b48e218addf61132f4eb1c584495b7308b8fafa/republictv-rbangla-mobile-prod/9c702a04-acb9-496e-abc2-98463ecf215e/4.m3u8
 #EXTINF:-1 tvg-logo="https://static.abplive.com/frontend/images/nw-bengali-og.png?impolicy=abp_cdn&imwidth=600" group-title="News",ABP Ananda
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
 #EXTINF:-57 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/News18_Bangla_logo.jpeg" group-title="News",Kolkata News
 https://onair.kolkatatv.org/hls/goktvlive.m3u8
-#EXTINF:-57 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/News18_Bangla_logo.jpeg" group-title="News",News-18 Bangla
-https://donb9c5d9m3up.cloudfront.net/app-19690-1609/ngrp:i3pXj52u_all/playlist.m3u8
+#EXTINF:-57 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/News18_Bangla_logo.jpeg" group-title="News",R-PLUS Bangla
+https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
 https://tv.kotha.im/TSports_HD/tracks-v1a1/mono.m3u8
