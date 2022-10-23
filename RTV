@@ -168,7 +168,7 @@ https://rr3---sn-qxaelner.googlevideo.com/videoplayback?expire=1666257780&ei=FL9
 http://103.55.144.46/hls/movies-now.m3u8
 
 #EXTINF:0 tvg-id="SonyPIX.in" group-title="HINDI",Fox Movie
-http://103.55.144.46/hls/mn+.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/dwnews.stream/chunks.m3u8 
 
 #EXTINF:-117 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="HINDI",HBO
 #http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
@@ -181,7 +181,7 @@ http://ip2121.com:8081/web1/hbo/playlist.m3u8
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="STAR WORLD HD (IN)" tvg-logo=" " group-title="English Movie",STAR WORLD HD (IN)
-http://103.55.144.46/hls/star-worldhd.m3u8
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8 
 
 #EXTINF:-1 tvg-id="Frisbee.it" tvg-name="Frisbee" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="English",BBC Earth
 http://103.55.144.46/hls/bbcearth.m3u8
@@ -241,11 +241,11 @@ http://103.16.24.54:8080/channel7/index.m3u8
 http://103.143.235.50:8080/ch2/ch2.m3u8
 
 #EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
-https://play.cdn786.com:999/hls/skysfott.m3u8?md5=5ozoxrXhpm8KwQkfXuuq9g&expires=1665380672
+http://103.143.235.50:8080/ch2/ch2.m3u8
 
 
 #EXTINF:-1,#EXTINF:-145 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="SPORTS",PTV Sports
-https://play6.cdn786.com:999/hls/supercricket.m3u8?md5=I_0uCKi0tN5cQ9JBUZRIlA&expires=1665639387
+http://116.204.149.11:8000/play/a00l/index.m3u8 
 #EXTINF:-147 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS",Geo Super TV
 http://146.59.19.1:80/5031/index.m3u8
 
@@ -262,7 +262,7 @@ https://s19.gocast123.me:8301/hd/hls/sEl5A5I2I_dBg4h3t7NJ_g/1666237872/willowusa
 https://s14.gocast123.me:8301/hd/hls/38qH9t2Koify3xvvNcUYOQ/1666237932/ptvpk.m3u8
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD
-https://go14.gocast2.com:999/hls/willowextra.m3u8?md5=TNB3Va9_ygnExZ52xsNjEA&expires=1666243998
+http://146.59.19.1:80/5031/index.m3u8 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",T Sports HD
 https://s19.gocast123.me:8301/hd/hls/UPKsc5x_riuCY6YuhP32Kw/1666238052/yt43.m3u8
 
