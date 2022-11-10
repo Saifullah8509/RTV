@@ -254,10 +254,10 @@ https://onair.kolkatatv.org/hls/goktvlive.m3u8
 #EXTINF:-57 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/News18_Bangla_logo.jpeg" group-title="News",R-PLUS Bangla
 https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/SS1Hindi.jpg/revision/latest?cb=20191214225552",Star Sports 1
 http://test-otv1.ftpbd.net/streams/110/index.m3u8
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV [1]
-http://test-otv1.ftpbd.net/streams/120/index.m3u8
+http://175.41.46.16:8081/hls/6.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv [3]
 http://ys-users.com:8080/christa/christa/425262
 
@@ -274,15 +274,15 @@ http://test-otv1.ftpbd.net/streams/118/index.m3u8
 http://test-otv1.ftpbd.net/streams/120/index.m3u8
 
 #EXTINF:-145 tvg-logo="" group-title="SPORTS",Ten sports
-http://146.59.19.1:80/5031/index.m3u8
+http://175.41.46.16:8081/hls/4.m3u8
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Cricket
 https://s15.gocast123.me:8301/hd/hls/95446-62BKMdAV7dZdq_xg/1666237710/tenspk.m3u8
 
-#EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Football
-http://15.1.5.14:8082/PTV-SPORTS/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="IPTV-3" tvg-logo="https://i.postimg.cc/T3kDtHrr/AD-Sports-1.png",AD Sports 1
-http://15.1.5.10:8082/Adsports1/tracks-v1a1/mono.m3u8
+#EXTINF:174 group-title="SPORTS"tvg-logo="https://cdn.tarskitheme.com/screens/live.cricket23-1.png",Super Sport Football
+http://175.41.46.16:8081/hls/6.m3u8
+#EXTINF:-1 group-title="IPTV-3" tvg-logo="data:image/png;base64,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",AD Sports 1
+http://175.41.46.16:8081/hls/4.m3u8
 #EXTINF:-1 group-title="IPTV-3" tvg-logo="https://i.postimg.cc/cCNgKqSN/AD-Sports-2.png",AD Sports 2
 http://15.1.5.10:8082/Adsports2/tracks-v1a1/mono.m3u8
 
