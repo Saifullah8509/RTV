@@ -107,10 +107,10 @@ https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdE
 #EXTINF:-81 tvg-logo="https://i.imgur.com/klVzNhT.png" group-title="MUSIC",Sangeet Bangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #http://ukipptv.ddns.net/907.stream/index.m3u8 
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+http://tv2.efiberbd.net:8080/live/mkaua/stream/59.m3u8
 
 #EXTINF:-82 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/bangla-talkies-logo-150x150.jpg" group-title="MUSIC",Bangla talkies
-http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8 
+http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC", MASTI
 http://202.53.170.254:8080/9XM/tracks-v1a1/mono.m3u8?token=0b5206766859152dead137eb2d8683dfab85771c-7480081b06fae3f412672e4ba32e7386-1669789148-1669778348
@@ -119,16 +119,16 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ZOOM.png" group-title="MUSIC", Zoom
 http://202.53.170.254:8080/Zoom/tracks-v1a1/mono.m3u8?token=bc43cd0926b0efb53ad94445756a49a03b75e9bd-9bfeb937053392a3d495ad0330ba23e2-1669789248-1669778448
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Music.png" group-title="MUSIC", B4U Music
-http://202.53.170.254:8080/BoogleBollywood/tracks-v1a1/mono.m3u8?token=f1d4d25560742b7e51b4464362122640a4ef6fab-f122377cbc20fbb77cf3fc1336bbd00e-1669789264-1669778464
+http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU" group-title="MUSIC", Music India(BD2)
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/58YDwk.jpg" group-title="MUSIC", RTV MUSIC
-https://bdcast-live2.b-cdn.net/jago/1/live-orgin/rtvmusic.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/58YDwk.jpg" group-title="MUSIC", ETV MUSIC
+http://208.86.19.13:81/719.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Music.png" group-title="MUSIC",Music India
 http://202.53.170.254:8080/MTV/tracks-v1a1/mono.m3u8?token=300d54a20827b75bd8fd05433b896c8f7ae61fe0-dce0d4ba20f71ae75a605b1b7196a7d8-1669789294-1669778494
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSFDmgJeM34DwUJKQC4cLTxR3YJyml-lx3xOA2HOmpxpkaDQ3pN&usqp=CAU" , Dil Se
-https://epiconvh.s.llnwi.net/showbox/master_1024.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSFDmgJeM34DwUJKQC4cLTxR3YJyml-lx3xOA2HOmpxpkaDQ3pN&usqp=CAU" , Music Masti
+http://144.217.70.181:9587/hin2/MASTII/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1 group-title="EXTREAM" tvg-logo="https://imgur.com/0fQTRXt.png",ZOOM
 http://xtream.efiberbd.net:8080/live/mkaua/stream/43.m3u8
