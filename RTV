@@ -10,7 +10,7 @@ https://bamus-eng-roku.amagi.tv/playlist720lp.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/doyeltv.stream/chunks.m3u8
 
 #EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor TV
-http://202.53.170.254:8080/EkattorTV/tracks-v1a1/mono.m3u8?token=1f8a02ed5a716135b2ce99020aa5ef03b8a908d6-b43807a8bd37ef72f82574c680274c8c-1669789016-1669778216
+http://208.86.19.13:81/675.stream/index.m3u8
 
 #EXTINF:-5 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA",SOMOY TV
 http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
@@ -56,7 +56,7 @@ https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
 
 #EXTINF:-14 tvg-logo="https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png" group-title="BANGLA",BOISHAKHI TV
-http://bciptv.net:8082/Boishakhi/tracks-v1a1/mono.m3u8?token=982f7650e65eec4cb4165a02c1ded299d996940b-ac848e54ed6ec7dffdaf291fb3c857b0-1658822422-1658811622
+http://iptvbd.jagobd.com:1931/live-orgin/boishakhitv-org.stream/chunks.m3u8
 
 #EXTINF:-15 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/12/boishakhitvplus.jpeg" group-title="BANGLA",BOISHAKHI Plus
 http://iptvbd.jagobd.com:1931/live-orgin/boishakhiplus.stream/chunks.m3u8
@@ -66,7 +66,7 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 
 #EXTINF:-17 tvg-logo="https://concordrope.com/hzbd-iptv/logo/channel_i.png" group-title="BANGLA",Channel I
-http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
+http://208.86.19.13:81/653.stream/index.m3u8
 
 #EXTINF:-18 tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="BANGLA",Deepto TV
 http://10.16.100.203:8082/bangla/deepto.m3u8
@@ -88,7 +88,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/channel9hd.stream/chunks.m3u8
 http://15.1.5.14:8082/nagorik-tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-31 tvg-logo="https://www.tradebangla.com.bd/images/business/profile/2017/12/12/222121217071805.jpg" group-title="BANGLA",Desh TV
-http://208.86.19.13:81/514.stream/index.m3u8
+http://208.86.19.13:81/661.stream/index.m3u8
 
 #EXTINF:-32 tvg-logo="https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png" group-title="BANGLA",MY TV HD
 http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
@@ -109,7 +109,9 @@ http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
 
 
 #EXTINF:-81 tvg-logo="https://i.imgur.com/klVzNhT.png" group-title="MUSIC",Sangeet Bangla
-https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
+https://tv.googledrivelinks.com/live.php?c=Sangeet_Bangla&q=600
+#EXTINF:-81 tvg-logo="https://i.imgur.com/klVzNhT.png" group-title="MUSIC",Sangeet Bangla
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 
 #EXTINF:-82 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/bangla-talkies-logo-150x150.jpg" group-title="MUSIC",Bangla talkies
 http://144.217.70.181:9587/hin2/8XM/tracks-v1a1/mono.m3u8?token=test
@@ -202,11 +204,11 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8 
 
 #EXTINF:-1 tvg-id="Frisbee.it" tvg-name="Frisbee" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="English",BBC Earth
-https://tv.googledrivelinks.com/live.php?c=Sony_BBC_Earth_HD&q=1200&e=.m3u8
+http://175.107.244.52:4455/play/a021/index.m3u8
 #EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160221005243/en/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="English", Love Nature
 https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/MCyL9wX.png",67.National Geographic Wild
-http://175.107.244.52:4455/play/a00m/index.m3u8
+http://175.107.244.52:4455/play/a00o/index.m3u8
 
 
 
@@ -216,7 +218,7 @@ http://208.86.19.13:81/902.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTEMY__A1rdg6TAMyLp0-TcqkzGM6Y4-KjjVNzsOA=s900-c-k-c0x00ffffff-no-rj" group-title="Indian-Bangla", Sananda TV
 http://bdip.ddns.net:1895/live/iptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTEMY__A1rdg6TAMyLp0-TcqkzGM6Y4-KjjVNzsOA=s900-c-k-c0x00ffffff-no-rj" group-title="Indian-Bangla", Zee Bangla HD
-http://202.53.170.254:8080/ZeeBangla/tracks-v1a1/mono.m3u8?token=6e8213722f804dbff4867f105fe15a45488a2a88-97a4a59a752b07b3e51066b25a1712a7-1669789320-1669778520
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian-Bangla", Star Jalsha HD
 http://tv.gundapanda.com:100/hls/1.m3u8
 #EXTINF:-1 tvg-logo="https://uploads.tapatalk-cdn.com/20160411/4442053e7d5e38bf177a7522f1d428e1.jpg" group-title="Indian-Bangla", Star Jalsha Movie HD
@@ -240,10 +242,10 @@ https://donb9c5d9m3up.cloudfront.net/app-19690-1609/ngrp:i3pXj52u_all/chunklist_
 
 https://rr1---sn-jpgjax-q5jy.googlevideo.com/videoplayback?expire=1652263430&ei=pjV7Yqe6NJOVwgOR37SIAQ&ip=103.118.152.32&id=t4HWCvheakI.1&itag=244&aitags=242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=l1&mm=44%2C29&mn=sn-jpgjax-q5jy%2Csn-qxaeeney&ms=lva%2Crdu&mv=m&mvi=1&pl=24&initcwndbps=937500&spc=4ocVC_JdNugHShpd4szCgSFTktR4&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=crpIV6l3wgg3RNeQJ0gvXgIG&gir=yes&mt=1652241394&fvip=3&keepalive=yes&fexp=24001373%2C24007246&c=WEB&n=4mpDUhz0wYnEhg&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRgIhAN7OR0PEVp4i8DguTRYVwUb-LeEp-fDOIVJmimcPIBqLAiEAwpeYFd95FhzEAwspmkJfVMUAE7gV-gAcQL-vrPgE9s8%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAKrKbWNJr0-1aH2eNiyk45AE9YGHxfTj1cbI3vOT6DAdAiA8-S8S3LOZA2lqpcpBWda_sBeQu2AAZpmEZWzjrATpSg%3D%3D&alr=yes&cpn=D2pA8D7GbYBd1evK&cver=2.20220502.01.00&sq=147411&rn=42&rbuf=26229&pot=GpsBCm6xPaCNhkSiFCfZg_080UvWWOc_wpNt8pwCgoq8S4tICEjNzNSbMJjxijAwjuE_iZ09flwdMlLzy1N5y-1BfwPq9T16u20TGrSFBQ1Fp_ddN2cB-7fPISGFOOWjnOhCpn5EKCrJ9F40I5GWOjDHtBIpATwYQQ71zaMRXn1q7qHMDc80de3asqhZpwbgKmMLKZzGtbyV6er313E=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/78/TV9_Bangla_logo.jpg"group-title="News",TV9 News
-https://vidcdn.vidgyor.com/tv9bangla-origin/live/tv9bangla-origin/live_720p/chunks.m3u8
+http://highmedia.livebox.co.in:80/HIGHNEWShls/LIVE.m3u8
 
 #EXTINF:-1 tvh-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPfK4eBSH8VYHllL0NkE8WUrA0AQfrP5bwd68cfvnTb2D05H_8I-Gx0Hal8-ZrtEQJBnU&usqp=CAU"group-title="News",Republic Bangla
-https://rr2---sn-coxucq-q5jz.googlevideo.com/videoplayback?expire=1669573384&ei=qFaDY7-vCai_rtoP05aL8AQ&ip=103.58.75.122&id=Vgu9oKxHqrA.1&itag=247&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=5T&mm=44%2C29&mn=sn-coxucq-q5jz%2Csn-x5guiuxaxjvh-q5jd&ms=lva%2Crdu&mv=m&mvi=2&pl=24&initcwndbps=582500&spc=SFxXNu8RekuJvnRgNit2Z2z4kO7PAEk&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=kSBKZ-WGP_-UWzGKXX8uzz0J&gir=yes&mt=1669551411&fvip=6&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=F6g78V8ifd1PEQ&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRAIgasCiCuuBJLzb2p_tjVfeXTHYIBSNsbkdjIu189ke9jACIGQmKvEfUwCK4NlgRrBb44s26-9VzQaosqWnH7kh2VR7&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhANKm2iuOGIRJJmFztYt-Eb_1X_aNhMoU-75LCw5ngfRsAiBvqHmuUFLthdftiNHkdwfWU7ZbgGS8D5PnGQPEwW9zpg%3D%3D&alr=yes&cpn=hCxxYFB9g6lZd3YW&cver=1.20221120.00.00&sq=449551&rn=36&rbuf=24965&pot=D67mXnej9VaCrt5PrfQsFqRLR-Tc3hGxhEkB4F1lxWGcArvsIGnGlytE2iqYBjRHdzewNMgYe__3KAdqQrQ20eVe1pY5DwdsJ4nXr0neLZ6ALNcyuPHOl-nyV82wUFNfh6q5LeI=
+http://iptvbd.jagobd.com:1931/live-orgin/bangla21tv000889956-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.abplive.com/frontend/images/nw-bengali-og.png?impolicy=abp_cdn&imwidth=600" group-title="News",ABP Ananda
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
 #EXTINF:-57 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/News18_Bangla_logo.jpeg" group-title="News",Kolkata News
