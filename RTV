@@ -36,6 +36,11 @@ http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-13 tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="BANGLA",Banglavision
 http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" ,Gazi TV HD
+http://humiptv.live:8080/live/RkAdhikari/Raju5555/767.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" ,Gazi TV HD
+http://172.16.29.250/hls/Gazi-TV.m3u8
+
 
 #EXTINF:-11 tvg-logo="https://www.mawbiz.com.bd/application/views/module/logo_image/Mohona_TV.jpg" group-title="BANGLA", MOHONA TV HD
 https://edge4.bioscopelive.com/hls/anonymous/PR5VTbTKOR-ImRGOJRIJiw/1667636442/nagorik_tv_hi/index.m3u8
@@ -63,7 +68,8 @@ http://iptvbd.jagobd.com:1931/live-orgin/boishakhiplus.stream/chunks.m3u8
 
 #EXTINF:-16 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="BANGLA",Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-
+#EXTINF:-1 tvg-id="ext" tvg-name="Enterr 10 Bangla " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg" group-title="Indian Bangla",Enterr 10 Bangla
+http://103.132.181.98:81/play/a00n
 
 #EXTINF:-17 tvg-logo="https://concordrope.com/hzbd-iptv/logo/channel_i.png" group-title="BANGLA",Channel I
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
@@ -109,9 +115,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
 
 
 #EXTINF:-81 tvg-logo="https://i.imgur.com/klVzNhT.png" group-title="MUSIC",Sangeet Bangla
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-81 tvg-logo="https://i.imgur.com/klVzNhT.png" group-title="MUSIC",Sangeet Bangla
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+http://humiptv.live:8080/live/RkAdhikari/Raju5555/405.ts
 
 #EXTINF:-82 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/bangla-talkies-logo-150x150.jpg" group-title="MUSIC",Bangla talkies
 https://d1v8sibg9qe8ke.cloudfront.net/BANGLA_TALKIES.m3u8
@@ -148,26 +152,20 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=2
 https://eu-fr.tvapp.icu/joomusic/tv/joomusic/stream1/chunks.m3u8?nimblesessionid=263126705
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema HD
-http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Sony Max HD 
-http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="ext" group-title="Hindi", B4U Kadak
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony Entertainment HD
-http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/sonyhd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/bflix-movies-logo-300x300.jpg" group-title="Hindi",Bflix Movies
-http://103.143.235.50/stargold/tracks-v1a1/mono.m3u8
-#EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi", HD Prime 
-http://208.86.19.13:81/7011.stream/index.m3u8
-#EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",UTV Action
-http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:0 tvg-id="SonyPIX.in" group-title="English",Sony Pix HD
-http://144.217.70.181:9587/hin2/B4UMOVIESUK/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:0 tvg-id="https://static.wikia.nocookie.net/logopedia/images/3/39/BBC_News_Logo.svg/revision/latest/scale-to-width-down/200?cb=20210530190407" group-title="News",BBC News
-http://103.55.144.46/hls/bbcworld.m3u8
-#EXTINF:0 tvg-id="data:image/png;base64,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" group-title="News",Aljazeera News
-https://tv.freeseries.eu.org/live.php?c=Enterr_10&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Zee Anmol" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png" group-title="Hindi Entertainment",Zee Anmol
+http://appleiptv.com:80/7863/7863/42979
+#EXTINF:-1 tvg-id="ext" tvg-name="ZEE TV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Hindi Entertainment",ZEE TV HD
+http://appleiptv.com:80/7863/7863/42876
+#EXTINF:-1 tvg-id="ext" tvg-name="Zee Cinema" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png" group-title="Hindi Entertainment",Zee Cinema
+http://appleiptv.com:80/7863/7863/42981
+#EXTINF:-1 tvg-id="ext" tvg-name="Zee Action" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="Hindi Entertainment",Zee Action
+http://appleiptv.com:80/7863/7863/42979
+#EXTINF:-1 tvg-id="ext" tvg-name="Zee Anmol Cinema" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" group-title="Hindi Entertainment",Zee Anmol Cinema
+https://tv.googledrivelinks.com/live.php?c=Zee_Anmol_Cinema&q=1200&e=.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="B4U Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="Hindi Entertainment",B4U Movies
+http://appleiptv.com:80/7863/7863/42987
+#EXTINF:-1 tvg-id="ext" tvg-name="And Pictures" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Hindi Entertainment",And Pictures
+http://appleiptv.com:80/7863/7863/42882
 
 #EXTINF:-1 tvg-id="CinemaxO.mx" tvg-name="Cinemax (2)" tvg-logo="" group-title="HINDI",MNX
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
@@ -183,22 +181,28 @@ http://iptvbd.jagobd.com:1931/live-orgin/dwnews.stream/chunks.m3u8
 #http://50.7.61.148:30080/Entry/hbo
 http://ip2121.com:8081/web1/hbo/playlist.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTARY",Amazing Discoveries TV
-http://tv.googledrivelinks.com/live.php?c=Discovery_Channel_Bengali&q=400&e=.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY",Animal Planet
-http://108.61.156.252/hls/animalplanet.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY",Animal Planet HD
-http://108.61.156.252/hls/ngc.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY",Discovery ID HD
-http://172.16.29.250/hls/discovery.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY",Discovery World HD
-http://190.83.119.67:8000/play/a0tc/index.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY",History HD
-http://190.83.119.67:8000/play/a0px/index.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY",National Geographic
-http://172.16.29.250/hls/animalplanent.m3u8
-#EXTINF:-1 group-title="HINDI" tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png",Star Movies HD
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Travel XP" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png" group-title="Documentary",Travel XP
+http://appleiptv.com:80/7863/7863/42891
+#EXTINF:-1 tvg-id="ext" tvg-name="Epic HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Epic_HD.png" group-title="Documentary",Epic HD
+https://tv.googledrivelinks.com/live.php?c=Epic_HD&q=1200&e=.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Discovery Turbo" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png" group-title="Documentary",Discovery Turbo
+http://humiptv.live:8080/live/RkAdhikari/Raju5555/23917.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Investigation Discovery" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ID.PNG" group-title="Documentary",Investigation Discovery
+http://humiptv.live:8080/live/RkAdhikari/Raju5555/23790.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Food Food" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png" group-title="Documentary",Food Food
+http://humiptv.live:8080/live/RkAdhikari/Raju5555/9975.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TLC" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_Hindi.png" group-title="Documentary",TLC
+http://appleiptv.com:80/7863/7863/43091
+#EXTINF:-1 tvg-id="ext" tvg-name="Animal Planet Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" group-title="Documentary",Animal Planet Hindi
+http://humiptv.live:8080/live/RkAdhikari/Raju5555/5249.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="National Geograhic Hindi HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/National_Geographic_Channel_2000.svg/revision/latest?cb=20100510202922" group-title="Documentary",National Geograhic Hindi HD
+http://appleiptv.com:80/7863/7863/42889
+#EXTINF:-1 tvg-id="ext" tvg-name="History 18 Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="Documentary",History 18 Hindi
+http://appleiptv.com:80/7863/7863/42890
+#EXTINF:-1 tvg-id="ext" tvg-name="Sony BBC Earth HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Documentary",Sony BBC Earth HD
+http://appleiptv.com:80/7863/7863/42888
+#EXTINF:-1 tvg-id="ext" tvg-name="Travelxp HD (BANGLA)" tvg-logo="" group-title="Documentary",Travelxp HD (BANGLA)
+http://humiptv.live:8080/live/RkAdhikari/Raju5555/20622.ts
 
 #EXTINF:-1 tvg-id="STAR WORLD HD (IN)" tvg-logo=" " group-title="English Movie",STAR WORLD HD (IN)
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8 
@@ -214,7 +218,11 @@ http://175.107.244.52:4455/play/a00o/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/in-aakaash-aath-8041.jpg" group-title="Indian-Bangla",Akash 8
-http://208.86.19.13:81/902.stream/index.m3u8 
+https://tv.googledrivelinks.com/live.php?c=Aakaash_bangla&q=1200&e=.m3u8
+#EXTINF:-1tvg-logo="https://photos.live-tv-channels.org/tv-logo/in-aakaash-aath-8041.jpg" ,Akash Aath
+https://tv.freeseries.eu.org/live.php?c=Aakaash_bangla&q=800&e=.m3u8
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/in-aakaash-aath-8041.jpg",Akash Aath
+http://watchindia.net:8880/live/dharmend/PTukavDWzh/2295.ts
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTEMY__A1rdg6TAMyLp0-TcqkzGM6Y4-KjjVNzsOA=s900-c-k-c0x00ffffff-no-rj" group-title="Indian-Bangla", Sananda TV
 http://bdip.ddns.net:1895/live/iptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTEMY__A1rdg6TAMyLp0-TcqkzGM6Y4-KjjVNzsOA=s900-c-k-c0x00ffffff-no-rj" group-title="Indian-Bangla", Zee Bangla HD
@@ -230,13 +238,14 @@ http://208.86.19.13:81/907.stream/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://cdn.viacom18.com/stg/wp-content/uploads/2020/07/07185839/ColorsBanglaLogo.png"group-title="Indian-Bangla", Colors Bangla Cinema
 http://103.55.144.46/hls/colore-bangla-cinema.m3u8
 #EXTINF:-1 group-title="EXTREAM" tvg-logo="https://imgur.com/uUhUMjV.png",মিম টিভি
-http://208.86.19.13:81/502.stream/index.m3u8
+http://humiptv.live:8080/live/RkAdhikari/Raju5555/3811.ts
+
 
 #EXTINF: -1 tvg-logo="https://www.adgully.com/img/800/202101/amit-aggrawal_2.png.jpg" group-title="News", Zee 24 Ghanta
 https://d3dyw3d1wswml0.cloudfront.net/out/v1/c549619d46ce42b28649a25c12f3ee4b/index_10.m3u8
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/CN_bengali.jpeg/revision/latest/scale-to-width-down/250?cb=20191218193431" group-title="News", Calcutta News
-https://d1cyv87zn6dwvx.cloudfront.net/app-19690-1645/ngrp:XDxiDMvL_all/chunklist_w2007292838_b2657280.m3u8
+http://humiptv.live:8080/live/RkAdhikari/Raju5555/3819.ts
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/CN_bengali.jpeg/revision/latest/scale-to-width-down/250?cb=20191218193431" group-title="News", Calcutta News
 https://calcuttanews.tv/livetv
 
