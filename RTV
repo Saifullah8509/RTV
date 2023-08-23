@@ -5,7 +5,7 @@ https://ap02.iqplay.tv:8082/iqb8002/d33ntv/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 https://bdixtv24.tk/live.php?c=dw&q=600&e=.m3u8
 #EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png",Ekattor TV
-http://12.1.1.1:8082/Ekattor-tv/tracks-v1a1/mono.m3u8?token=125319f605be0510f50ac7743d4a3643ae5cb95a-9893b91c80deeef89aa8a52f567faa9f-1691393105-1691382305
+http://12.1.1.1:8082/Ekattor-tv/tracks-v1a1/mono.m3u8?token=d47add310eefd69ea201504d3a73806ec88e0e9c-34acf2d0795aeb7c638777b17e2a41ce-1692774153-1692763353
 #EXTINF:-5 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png",SOMOY TV
 https://somoy.jaagobd.com:444/somoy/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-7 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png" ,NEWS 24 HD
@@ -48,7 +48,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
 #EXTINF:-16 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png",Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-17 tvg-logo="https://concordrope.com/hzbd-iptv/logo/channel_i.png" ,Channel I
-http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
+http://12.1.1.1:8082/Channel-i/tracks-v1a1/mono.m3u8?token=f9392a426744d99dbad5fd8c2825fc0d5270b74c-2ee05cca381c5025ca63493611f25f15-1692774234-1692763434
 #EXTINF:-18 tvg-logo="https://i.imgur.com/Z13U9Vt.png",Deepto TV
 http://10.16.100.203:8082/bangla/deepto.m3u8
 #EXTINF:-18 tvg-logo"https://static.wikia.nocookie.net/logopedia/images/0/02/BBC_World_News_%282019%2C_YouTube_TV%29.svg/revision/latest/scale-to-width-down/250?cb=20220609143423",BBC
@@ -167,7 +167,7 @@ http://humiptv.live:8080/live/RkAdhikari/Raju5555/20622.ts
 #EXTINF:-1 tvg-id="Frisbee.it" tvg-name="Frisbee" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth
 https://dai.google.com/out/v1/25027865fc9548f4928ca62a36dda585/master_2.m3u8?hdntl=exp=1680537317~acl=*~hmac=9a921e4949b0dbecf3110f32a6a5343b28d9db9a049e903652567a7b217e9af7&originpath=/linear/hls/pb/event/6bVWYIKGS0CIa-cOpZZJPQ/stream/97487561-5d84-46e4-a034-7074ceb64c6c:SIN/variant/1935630644426d9a280ce210c38129c2/bandwidth/4705632.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmDPLmxGduQRxFdLAg3JQp2BcnUrnzOBO47w&usqp=CAU",Sports TV
-https://live.tsports.com/live/live_01_720/index.m3u8
+http://12.1.1.1:8082/PTV-Sports/tracks-v1a1/mono.m3u8?token=97eee87697146150b318e29ab13a4e948837813f-5dfe93dec07408a0d821ee55bde12c93-1692774193-1692763393
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmDPLmxGduQRxFdLAg3JQp2BcnUrnzOBO47w&usqp=CAU",Sports TV
 http://test-otv1.ftpbd.net/streams/107/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmDPLmxGduQRxFdLAg3JQp2BcnUrnzOBO47w&usqp=CAU",Sports TV
