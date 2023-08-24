@@ -31,7 +31,7 @@ https://rajdhani.jaagobd.com:444/rajdhanitv/rajdhanitv.stream/playlist.m3u8
 #EXTINF:-11 tvg-logo="https://www.mawbiz.com.bd/application/views/module/logo_image/Mohona_TV.jpg", NAGORIK TV HD
 http://12.1.1.1:8082/Nagorik-TV/tracks-v1a1/mono.m3u8?token=e06191b174fb82c9a244c61c1151ec86092c5e07-916abb1fcc9ecb7693b146670ffd9167-1692852881-1692842081
 #EXTINF:-29 tvg-logo="https://i.imgur.com/vPl5dF8.png" group-title=",NTV
-https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/ntv_b_576/ntv_b_576.m3u8?bitrate=1000000&channel=ntv_b_576&gp_id=
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/ntv_b_576/ntv_b_576.m3u8?
 #EXTINF:-30 tvg-logo="https://static.wikia.nocookie.net/doraemon/images/a/a7/Asian_TV.jpg/revision/latest?cb=20150523082702&path-prefix=en",Asian TV
 http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 #EXTINF:-1 group-title="EXTREAM" tvg-logo="https://imgur.com/dmR92dL.png",DEEPTO TV
