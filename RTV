@@ -140,7 +140,7 @@ https://streaming24x7.xyz/TOFFEE/Streams/playlist.m3u8?l=1135663a7a5e0dc5f78f996
 #EXTINF:-1 tvg-id="ext" tvg-name="Travel XP" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png",Travel XP
 https://bdixtv24.tk/live.php?c=Travel_XP_HD&q=1200&e=.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Discovery Turbo" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png" ,Discovery Turbo
-https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_19.m3u8
+https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_17_0.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Investigation Discovery" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ID.PNG" ",Investigation Discovery
 http://humiptv.live:8080/live/RkAdhikari/Raju5555/23790.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="Food Food" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png" ,Food Food
@@ -158,13 +158,13 @@ https://mhdtv.co.in/jio/app/live/1239/Jio_Football_Bangali_HD/e9c8b8f107b6cb6eda
 #EXTINF:-1 tvg-id="ext" tvg-name="Sony BBC Earth HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" ,Sony BBC Earth HD
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJUaa6dodIdnmO5Ai4sbqCUw/ts
 #EXTINF:-1 tvg-id="ext" tvg-name="Travelxp HD (BANGLA)" tvg-logo=",Travelxp HD (BANGLA)
-http://humiptv.live:8080/live/RkAdhikari/Raju5555/20622.ts
+https://mhdtv.co.in/jio/app/live/1962/Amaar_Bangla/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Frisbee.it" tvg-name="Frisbee" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth
 https://dai.google.com/out/v1/25027865fc9548f4928ca62a36dda585/master_2.m3u8?hdntl=exp=1680537317~acl=*~hmac=9a921e4949b0dbecf3110f32a6a5343b28d9db9a049e903652567a7b217e9af7&originpath=/linear/hls/pb/event/6bVWYIKGS0CIa-cOpZZJPQ/stream/97487561-5d84-46e4-a034-7074ceb64c6c:SIN/variant/1935630644426d9a280ce210c38129c2/bandwidth/4705632.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmDPLmxGduQRxFdLAg3JQp2BcnUrnzOBO47w&usqp=CAU",Sports TV
-http://12.1.1.1:8082/PTV-Sports/tracks-v1a1/mono.m3u8?token=97eee87697146150b318e29ab13a4e948837813f-5dfe93dec07408a0d821ee55bde12c93-1692774193-1692763393
+https://live.tsports.com/live/tsports_live_1080/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmDPLmxGduQRxFdLAg3JQp2BcnUrnzOBO47w&usqp=CAU",Sports TV
 http://test-otv1.ftpbd.net/streams/107/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmDPLmxGduQRxFdLAg3JQp2BcnUrnzOBO47w&usqp=CAU",Sports TV
@@ -182,7 +182,7 @@ http://test-otv2.ftpbd.net/streams/110/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmDPLmxGduQRxFdLAg3JQp2BcnUrnzOBO47w&usqp=CAU",Sports TV
 http://ctgtv.online:8234/t_tv/tracks-v1a1/mono.m3u8?token=pro---sbdt____bd
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmDPLmxGduQRxFdLAg3JQp2BcnUrnzOBO47w&usqp=CAU",Sports TV
-http://test-otv2.ftpbd.net/streams/110/index.m3u8
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/Sports18_1_HD_voot_MOB-audio_98835_eng=98800-video=3110800.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmDPLmxGduQRxFdLAg3JQp2BcnUrnzOBO47w&usqp=CAU",Sports TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmDPLmxGduQRxFdLAg3JQp2BcnUrnzOBO47w&usqp=CAU",Sports TV
