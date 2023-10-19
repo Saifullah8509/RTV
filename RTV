@@ -167,7 +167,7 @@ https://mhdtv.co.in/jio/app/live/1962/Amaar_Bangla/index.m3u8
 #EXTINF:-1 tvg-id="Frisbee.it" tvg-name="Frisbee" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth
 https://dai.google.com/out/v1/25027865fc9548f4928ca62a36dda585/master_2.m3u8?hdntl=exp=1680537317~acl=*~hmac=9a921e4949b0dbecf3110f32a6a5343b28d9db9a049e903652567a7b217e9af7&originpath=/linear/hls/pb/event/6bVWYIKGS0CIa-cOpZZJPQ/stream/97487561-5d84-46e4-a034-7074ceb64c6c:SIN/variant/1935630644426d9a280ce210c38129c2/bandwidth/4705632.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmDPLmxGduQRxFdLAg3JQp2BcnUrnzOBO47w&usqp=CAU",Sports TV
-http://103.180.112.66:8087/gtv/tracks-a1/index.fmp4.m3u8?token=5c1c1a16a202edb184bc231b76a44e8cbec536bf-8b3cce376cbacc4648bd85ae7b9f0b52-1697730598-1697719798
+http://103.180.112.66:8087/gtv/tracks-a1/index.fmp4.m3u8?token=a8e7e57f6c24b11199ec8b5ae0e8b44afe074245-50e6eff5bc1c83533ccafdfdb5ed1a67-1697731522-1697720722
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmDPLmxGduQRxFdLAg3JQp2BcnUrnzOBO47w&usqp=CAU",Sports TV
 http://103.180.112.66:8087/Espn/tracks-v1/index.fmp4.m3u8?token=ca5769c6ced1e4df73f1ec6b3cbc24a2e75e4e77-f1690876c28d4819fc97f8c6226df058-1697730660-1697719860
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmDPLmxGduQRxFdLAg3JQp2BcnUrnzOBO47w&usqp=CAU",Sports TV
@@ -177,7 +177,7 @@ https://tvs1.aynaott.com/asports/tracks-v1a1/mono.m3u8?hdnts=st=1696822557~exp=1
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmDPLmxGduQRxFdLAg3JQp2BcnUrnzOBO47w&usqp=CAU",Sports TV
 http://test-otv4.ftpbd.net/streams/126/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmDPLmxGduQRxFdLAg3JQp2BcnUrnzOBO47w&usqp=CAU",Sports TV
-https://live.tsports.com/live/live_01_720/index.m3u8
+http://103.180.112.66:8087/Espn/tracks-a1/index.fmp4.m3u8?token=b18ec34e2f49a6d25d5786df56080f815ee39264-b3af5b1b9dbf5cfa304f95f6cfa3a422-1697731910-1697721110
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmDPLmxGduQRxFdLAg3JQp2BcnUrnzOBO47w&usqp=CAU",Sports TV
 http://test-otv1.ftpbd.net/streams/107/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmDPLmxGduQRxFdLAg3JQp2BcnUrnzOBO47w&usqp=CAU",Sports TV
@@ -187,7 +187,7 @@ http://test-otv2.ftpbd.net/streams/110/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmDPLmxGduQRxFdLAg3JQp2BcnUrnzOBO47w&usqp=CAU",Sports TV
 http://test-otv4.ftpbd.net/streams/116/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmDPLmxGduQRxFdLAg3JQp2BcnUrnzOBO47w&usqp=CAU",Sports TV
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/Sports18_1_HD_voot_MOB-audio_98835_eng=98800-video=3110800.m3u8
+http://103.180.112.66:8087/starsp3/tracks-a1/index.fmp4.m3u8?token=7100690c18a164f381960eaab4f5146665cf2503-693da4f5b96ffa61456ea03fbc5b4987-1697730713-1697719913
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmDPLmxGduQRxFdLAg3JQp2BcnUrnzOBO47w&usqp=CAU",Sports TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmDPLmxGduQRxFdLAg3JQp2BcnUrnzOBO47w&usqp=CAU",Sports TV
