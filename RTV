@@ -4,11 +4,11 @@ https://ap02.iqplay.tv:8082/iqb8002/d33ntv/chunks.m3u8
 #EXTINF:-2 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" ,BTV 
 http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png",Ekattor TV
-http://test-otv2.ftpbd.net/streams/120/index.m3u8
+https://tvs1.aynaott.com/ekattorbdtv/index.m3u8?hdnts=st=1698717909~exp=1698761109~acl=/*~data=45.61.146.183-WEB~hmac=5b9c2c1b23796ec137f70d5dac69b731a0e7bfe634e8a55f5f61e52ced868f26
 #EXTINF:-5 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png",SOMOY TV
-https://somoy.jaagobd.com:444/somoy/somoyt000011226615544544.stream/chunks.m3u8
+https:https://tvs1.aynaott.com/somoytv/tracks-v1a1/mono.m3u8?hdnts=st=1698717871~exp=1698761071~acl=/*~data=45.61.146.183-WEB~hmac=a0529e94b251d2e405d518dac25faf2efd691ce9539f43e18bbf0957b9c24e00
 #EXTINF:-7 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png" ,NEWS 24 HD
-http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
+https://tvs1.aynaott.com/news24/index.m3u8?hdnts=st=1698717838~exp=1698761038~acl=/*~data=45.61.146.183-WEB~hmac=bebce019407246dd8ed632de94995538471adf3bb1e49e4015388111778d5d8d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" , DBC News
 http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWAPRPiB436miWzlq-Lz-Wy_MUi4mSKfgJjQ&usqp=CAU" ,Zee Bangla
@@ -19,7 +19,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 https://tehttps://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/royaltv.stream/chunks.m3u8
 
 #EXTINF:-8 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png",JAMUNA TV
-http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+https://tvs1.aynaott.com/jamunatv/index.m3u8?hdnts=st=1698717948~exp=1698761148~acl=/*~data=45.61.146.183-WEB~hmac=d18407bd2def9070d962f55ab37acbe97d79a7668f93009f9efc88b36399868e
 #EXTINF:-11 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png",ATN BANGLA [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 
