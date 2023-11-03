@@ -146,8 +146,8 @@ http://chanel.dekhaott.com/Discovery/tracks-a1/index.fmp4.m3u8
 https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_19.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Investigation Discovery" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ID.PNG" ",Investigation Discovery
 https://cdn-tv.co.in/toffee/playlist.php?https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/ngc_wild_576/ngc_wild_576.m3u8?bitrate=1000000&channel=ngc_wild_576&gp_id=
-#EXTINF:-1 tvg-id="ext" tvg-name="Food Food" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png" ,Food Food
-http://test-otv2.ftpbd.net/streams/119/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Food Food" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png" ,ZEE bangla
+http://otv.ftpbd.net:8082/Zee-Bangla-HD/index.m3u8?token=d82baf9443207dcef8ae9fe6296ecf0cc5b21f9c-54c4cf8c919164f3f538f52a08230418-1698987449-1698976649
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/zeebangla-audio_208482_und=208000-video=562400.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TLC" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_Hindi.png",TLC
 https://www.btvlive.gov.bd/streams/2fd4230e-b383-47f7-bdf1-0e3fc1d78f00/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/355ba051-9a60-48aa-adcf-5a6c64da8c5c_2_playlist.m3u8
