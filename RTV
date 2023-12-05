@@ -137,7 +137,7 @@ http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJXZjLNgWkBRWUR9RnyixLGg/ts
 http://test-otv1.ftpbd.net/streams/128/index.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Travel XP" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png",Travel XP
-http://otv.ftpbd.net:8082/Zee-Bangla-HD/tracks-v1a1/mono.m3u8
+http://test-otv2.ftpbd.net/streams/119/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Discovery Turbo" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png" ,Discovery Turbo
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_19.m3u8
