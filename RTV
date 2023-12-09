@@ -137,7 +137,7 @@ http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJXZjLNgWkBRWUR9RnyixLGg/ts
 http://test-otv1.ftpbd.net/streams/128/index.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Travel XP" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png",Travel XP
-http://test-otv2.ftpbd.net/streams/119/index.m3u8
+http://otv.ftpbd.net:8082/Zee-Bangla-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Discovery Turbo" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png" ,Discovery Turbo
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_19.m3u8
@@ -161,8 +161,7 @@ https://astraliv.com/proxy/proxify?url=t2S2ugkaD/qDs5nhnHMEhEVDBOE03/BXBcwTN298N
 #EXTINF:-1 tvg-id="ext" tvg-name="Travelxp HD (BANGLA)" tvg-logo=",Travelxp HD (BANGLA)
 https://mhdtv.co.in/jio/app/live/1962/Amaar_Bangla/index.m3u8
 #EXTINF:-1 tvg-id="Frisbee.it" tvg-name="Frisbee" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth
-https://dai.google.com/out/v1/25027865fc9548f4928ca62a36dda585/master_2.m3u8?hdntl=exp=1680537317~acl=*~hmac=9a921e4949b0dbecf3110f32a6a5343b28d9db9a049e903652567a7b217e9af7&originpath=/linear/hls/pb/event/6bVWYIKGS0CIa-cOpZZJPQ/stream/97487561-5d84-46e4-a034-7074ceb64c6c:SIN/variant/1935630644426d9a280ce210c38129c2/bandwidth/4705632.m3u8
-
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
 
 
 
