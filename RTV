@@ -144,8 +144,7 @@ https://static.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-id="ext" tvg-name="Investigation Discovery" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ID.PNG" ",Investigation Discove
 https://tvs1.aynaott.com/ZeeBangla/index.m3u8?hdnts=st=1705895053~exp=1705938253~acl=/*~data=2402:1f00:8001:15ca::-WEB~hmac=e96dcaba76b2198985518f2cfb34888ddd1ce6ced4dec73347f2c894e4599ff9
 #EXTINF:-1 tvg-id="ext" tvg-name="Food Food" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png" ,ZEE bangla
-http://tvcdn.hoichoi24.com:8083/1405/index.m3u8
-http://tvcdn.hoichoi24.com:8083/1405/tracks-v1a1/mono.m3u8
+http://tvcdn.hoichoi24.com:8083/1405/tracks-v1a1/mono.m3u8?token=755dc57b9c7352c93da6ce300fbc163621a26d20-17696c75a67a758c4e1becfa26afc6d7-1708325969-1708322369
 #EXTINF:-1 tvg-id="ext" tvg-name="TLC" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_Hindi.png",TLC
 http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Animal Planet Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" ,Animal Planet Hindi
