@@ -12,8 +12,14 @@ https://edge01.iptv.digijadoo.net/live/news_24_hd/playlist.m3u8?md5=Hhxgh0WRqVb_
 https://edge01.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8?expires=1712935974&md5=Hhxgh0WRqVb_Z5PV7GwHGg&user=ff39d05fef0749028389f28943b73363
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" , DBC News
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" , DBC News
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/live-orgin/dbcnews.stream/chunks.m3u8?nimblesessionid=278914090
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWAPRPiB436miWzlq-Lz-Wy_MUi4mSKfgJjQ&usqp=CAU" ,Zee Bangla
 http://tv.cloudcdn.me:80/live.ts?channelId=120&uid=6140&deviceMac=00:1A:79:C1:9A:8C
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWAPRPiB436miWzlq-Lz-Wy_MUi4mSKfgJjQ&usqp=CAU" ,Zee Bangla
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rc9V6fv/download-2.jpg" group-title="Cricket 🏏", Jamuna TV 
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
 #EXTINF:-9 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" ,Channel 24
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/playlist.m3u8
 #EXTINF:-6 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png",INDEPENDENT TV
@@ -33,6 +39,10 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 http://test-otv2.ftpbd.net/streams/115/index.m3u8
 #EXTINF:-0 tvg-logo="https://www.nexusbd.tv/wp-content/uploads/2022/06/logo-nexus.png",Nexus TV
 https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
+#EXTINF:-0 tvg-logo="https://www.nexusbd.tv/wp-content/uploads/2022/06/logo-nexus.png", Music Masti
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/d56573aa-33ac-49b6-92e8-14b4d9167df3/3.m3u8
+#EXTINF:-0 tvg-logo="https://www.nexusbd.tv/wp-content/uploads/2022/06/logo-nexus.png", Islam TV Bangla
+https://0gr5dgmttgha1hctogyzdncb1.ourdvsssvip.com/pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8?wsSession=f98e53f933ce7912b31aed4a-172588907162390&wsIPSercert=f2aa5dc36239428ffdb82fe13a690433&wsiphost=local&wsBindIP=1
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BIJOY_TV_Logo_BD.png/640px-BIJOY_TV_Logo_BD.png",Bijoy TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/playlist.m3u8
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Ananda_TV_Logo.png",Ananda TV
@@ -74,6 +84,10 @@ https://hotflix-bd.online/T-Sport/tracks-v1a1/mono.m3u8
 http://tv.digitalview.live:8080/live/abidhasan/283829471947229/409.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Sports" group-title="",Star Sports 2 HD.
 http://124.29.225.205:8000/play/a03m/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Sports" group-title="",Star Sports 2 HD.
+https://cdn1.hotflix-bd.online/Star-Sports-1/tracks-v1a1/mono.m3u8?remote=103.154.16.32&token=415fbac06c4afee4ba607502e58b8c84005d374b-70829c312a6ea3db25573405c91c17cf-1725655988-1725645188
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla" group-title="",T Sports 
+https://cdn1.hotflix-bd.online/Star-Sports-2/tracks-v1a1/mono.m3u8?remote=103.154.16.32&token=89310f667b33475481f9322c3c837824d61bebe6-f759f705df9706775835b5d3e0de6408-1725656433-1725645633
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title="Sports" group-title="",Sony Sports Ten 3 HD
 http://14.102.123.50:5001/live/524.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Sports%20Ten%204.png"group-title="Sports" group-title="",Sony Sports Ten 4
