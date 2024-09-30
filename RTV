@@ -22,6 +22,8 @@ https://medialive.akash-go.com/out/v1/6f383b37a0a04069bca27dc0308e1eac/index.mpd
 https://medialive.akash-go.com/out/v1/23be063ca7254875a3ed0d546d2aec6a/index.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" , DBC News
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" , Matrivumi tv
+http://103.101.197.10:8989/M_Movies/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWAPRPiB436miWzlq-Lz-Wy_MUi4mSKfgJjQ&usqp=CAU" ,Zee Bangla
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWAPRPiB436miWzlq-Lz-Wy_MUi4mSKfgJjQ&usqp=CAU" ,Zee Bangla
