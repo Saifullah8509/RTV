@@ -88,8 +88,7 @@ https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/i
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="Infotainment Channels", Love Nature 4K*
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/live-orgin/dbcnews.stream/chunks.m3u8?nimblesessionid=307411305
 #EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_204.png", Deepto TV
-https://byphdgllyk.gpcdn.net/hls/deeptotv/2_3/index.m3u8?sessId=3319810
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1727728832/ei/YLj6ZoDgLM2I6dsP_fWduAU/ip/193.29.107.104/id/aHWPi4iUHkc.1/itag/233/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/133/sgoap/gir%3Dyes%3Bitag%3D139/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-coxucq-q5js.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/900/manifest_duration/900/vprv/1/playlist_type/DVR/initcwndbps/728750/mh/HA/mip/103.58.75.121/mm/44/mn/sn-coxucq-q5js/ms/lva/mv/m/mvi/1/pl/24/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/51299152/mt/1727706764/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,rqh,hdlc,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRgIhANFI3L1EJjKOaVbObtrOqcEipTS8khWKcGLcfYs8F0seAiEAkGmsDOHWMSyhAXEo2tDyiQUBeA6niIkJyDETiWfj6aw%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/ABPmVW0wRgIhAM3Jh8ekUhGgASHyRHuRSTWJpHAMXJxBk5APu_Pkl-i3AiEAkcWUgZr5nHjS4GNyHUvbL3KLTtKnKE5IwkQmlaPPZV0%3D/playlist/index.m3u8
 
 
 
@@ -102,7 +101,7 @@ http://103.190.85.38/hls/tsports.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Sports" group-title="",Star Sports 2 HD.
 https://hotflix-bd.online/GTV/tracks-v1a1/mono.m3u8?remote=103.154.16.32&token=58ba91c85d3ebbd597721149634d4fcf9c5a02b1-c0835931b44a10c01d142b7d045484d8-1725656790-1725645990
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla" group-title="",GTV Sports 
-https://hotflix-bd.online/GTV/index.m3u8
+https://cdn2.ihub.live/GTV/tracks-v1a1/mono.m3u8?token=e03c821d7b2a548e035df45a16e7a231bca86f57-d2b0c7c0cb7106310249be26f4f11a34-1727717634-1727706834
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="Sports" group-title="",PTV Sports
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png"group-title="Sports" group-title="",A Sports
