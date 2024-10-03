@@ -22,7 +22,7 @@ https://edge01.iptv.digijadoo.net/live/channel_24/chunks.m3u8?expires=1728081155
 #EXTINF:-1 tvg-id="akash40" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1722948448337.png" group-title="AkashGO", Jamuna TV
 https://global.ncare.live/live-orgin/jamuna-test-sample-ok.stream/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8?nimblesessionid=375600997.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" , DBC News
-https://edge01.iptv.digijadoo.net/live/dbc_news/chunks.m3u8?expires=1728081308&md5=o6XDn5eAX1XAHfY_NoBBsA&user=c15be118d93a464dabf77260596012cf.m3u8
+https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/live-orgin/dbcnews.stream/chunks.m3u8?nimblesessionid=376972846
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" , Matrivumi tv
 http://103.101.197.10:8989/M_Movies/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWAPRPiB436miWzlq-Lz-Wy_MUi4mSKfgJjQ&usqp=CAU" ,Zee Bangla
