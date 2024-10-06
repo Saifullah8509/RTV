@@ -4,13 +4,13 @@ https://stream.imotv.online/sports/m3u8.php/star1in.m3u8
 #EXTINF:-1 tvg-logo="https://observerbd.com/2024/07/09/ob_1720459823.jpg"group-title="BD VS PAK" group-title="",BD VS PAK T Sports
 https://stream.imotv.online/sports/m3u8.php/starhindi.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="Sports" group-title="", Sports
-https://mprod-cdn.toffeelive.com/live/match-3/index.m3u8
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8?expires=1728418313&md5=lcpcl1heLHHo_36IBwYyaA&user=d477246e9e724f81a011b847457e71c4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="Sports" group-title="",PTV Sports
-https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8
+http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ31OEyeiTA2nk_vuhGj72BcxDwAnhfPo_gw&s"",T Sports
-https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_2.m3u8
+https://www.diplomazonebd.com/cors?url=http://103.190.85.38/hls/tsports.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png"group-title="Sports" group-title="",TEN Sports
-https://stream.imotv.online/sports/m3u8.php/laligauki.m3u8
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=lcpcl1heLHHo_36IBwYyaA&expires=1728418313&user=d477246e9e724f81a011b847457e71c4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png"group-title="Sports" group-title="",Star Sports
 https://stream.imotv.online/sports/m3u8.php/starhindi.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWAPRPiB436miWzlq-Lz-Wy_MUi4mSKfgJjQ&usqp=CAU" ,Zee Bangla
