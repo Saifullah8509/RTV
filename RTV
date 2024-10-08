@@ -13,6 +13,10 @@ https://www.diplomazonebd.com/cors?url=http://103.190.85.38/hls/tsports.m3u8
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=lcpcl1heLHHo_36IBwYyaA&expires=1728418313&user=d477246e9e724f81a011b847457e71c4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png"group-title="Sports" group-title="",Star Sports
 https://stream.imotv.online/sports/m3u8.php/starhindi.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png"group-title="Sports" group-title="",Star Sports
+https://adda.aneplaymax.online/wp-teme/zes-u/stream.m3u8?id=43&e=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png"group-title="Sports" group-title="",Star Sports
+https://adda.aneplaymax.online/wp-teme/zes-u/stream.m3u8?id=42&e=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWAPRPiB436miWzlq-Lz-Wy_MUi4mSKfgJjQ&usqp=CAU" ,Zee Bangla
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/zeebangla1-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWAPRPiB436miWzlq-Lz-Wy_MUi4mSKfgJjQ&usqp=CAU" ,Zee Bangla
