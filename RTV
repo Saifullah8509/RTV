@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://observerbd.com/2024/07/09/ob_1720459823.jpg"group-title="BD VS PAK" group-title="",BD VS PAK T Sports
-https://stream.imotv.online/sports/m3u8.php/star1in.m3u8
+https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=1MQwJmEi6dYotNF8w-PdwA&expires=1728783410&user=811838a63b224e85b02b925b31d0fece
 #EXTINF:-1 tvg-logo="https://observerbd.com/2024/07/09/ob_1720459823.jpg"group-title="BD VS PAK" group-title="",BD VS PAK T Sports
 https://stream.imotv.online/sports/m3u8.php/starhindi.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="Sports" group-title="", Sports
@@ -17,6 +17,8 @@ https://stream.imotv.online/sports/m3u8.php/starhindi.m3u8
 https://adda.aneplaymax.online/wp-teme/zes-u/stream.m3u8?id=43&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png"group-title="Sports" group-title="",Star Sports
 https://adda.aneplaymax.online/wp-teme/zes-u/stream.m3u8?id=42&e=.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWAPRPiB436miWzlq-Lz-Wy_MUi4mSKfgJjQ&usqp=CAU" ,Zee Bangla
+https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=pbvijq_gNsdFwGNnfbeNwA&expires=1728783499&user=811838a63b224e85b02b925b31d0fece
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWAPRPiB436miWzlq-Lz-Wy_MUi4mSKfgJjQ&usqp=CAU" ,Zee Bangla
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/zeebangla1-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWAPRPiB436miWzlq-Lz-Wy_MUi4mSKfgJjQ&usqp=CAU" ,Zee Bangla
@@ -61,6 +63,8 @@ https://global.ncare.live/live-orgin/dbcnews.stream/playlist.m3u8
 https://global.ncare.live/live-orgin/asian-test-sample-ok-d.stream/playlist.m3u8 
 #EXTINF:-1 ,Ananda TV 
 https://global.ncare.live/live-orgin/anandatv.stream/playlist.m3u8 
+#EXTINF:-1 ,Nagorik TV 
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=jAVLNmBdVj56H_6CqI4uLw&expires=1728783113&user=811838a63b224e85b02b925b31d0fece
 #EXTINF:-1 ,Colosal TV 
 https://global.ncare.live/live-orgin/colosal.stream/playlist.m3u8 
 #EXTINF:-1 ,tvg-logo="https://tds-images.thedailystar.net/sites/default/files/styles/big_202/public/images/2021/08/12/channel_i.png" Channel I 
