@@ -18,10 +18,8 @@ https://adda.aneplaymax.online/wp-teme/zes-u/stream.m3u8?id=43&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png"group-title="Sports" group-title="",Star Sports
 https://adda.aneplaymax.online/wp-teme/zes-u/stream.m3u8?id=42&e=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWAPRPiB436miWzlq-Lz-Wy_MUi4mSKfgJjQ&usqp=CAU" ,Zee Bangla
-https://zee5.drmlive.in/cmaf/live/2105554/ZeeBanglaHDELE/index-connected.m3u8
-https://zee5.drmlive.in/cmaf/live/2105554/ZeeBanglaHDELE/master_576P.m3u8?hdntl=exp=1729645903~acl=/*~data=hdntl~hmac=ae1047a81db671ca11a2212758c28c14d80e1ba25740efaa882f1bfc44b5265e
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWAPRPiB436miWzlq-Lz-Wy_MUi4mSKfgJjQ&usqp=CAU" ,Zee Bangla
-https://zee5.drmlive.in/cmaf/live/2105260/ZeeBanglaELE/master.m3u8
+https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=Memt-zWlRzbq-dO8ZYSmwg&expires=1730058785&user=d477246e9e724f81a011b847457e71c4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWAPRPiB436miWzlq-Lz-Wyhttps://catchup.yuppcdn.net/amazonv2/36/preview/zeebangla/master/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWAPRPiB436miWzlq-Lz-Wy_MUi4mSKfgJjQ&usqp=CAU" ,Zee Bangla
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1-audio_208482_und=208000-video=4237600.m3u8
 #EXTINF:-1 tvg-id="akash18" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927447544.png" group-title="AkashGO", ZEE BANGLA
