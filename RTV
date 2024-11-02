@@ -28,7 +28,7 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" group-title="SR Entertainment" ,Zee Bangla SD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla1/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" group-title="SR Entertainment" ,Zee Bangla SD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla/sangeetbangla-audio_208482_und=208000-video=562400.m3u8
+http://bdix.sadman.app.tc/ZeeBangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ruposhi%20Bangla.jpeg" group-title="Kolkata Bangla",Ruposhi Bangla
 https://cdn3.pishow.tv/live/281/master.m3u8
 #EXTINF:-1 tv-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_CA7i80j2NQQAP92USICilCEkqjYXFSaI6w&s", Bangla Plus
